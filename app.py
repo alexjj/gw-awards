@@ -133,8 +133,8 @@ if selected_callsign:
     else:
         m = folium.Map(
             location=[52.3, -3.7],
-            zoom_start=7,
-            tiles="OpenStreetMap"
+            zoom_start=8,
+            tiles="OpenTopoMap"
         )
 
         for _, row in df_call.iterrows():
