@@ -53,7 +53,8 @@ def build_activation_dataframe(data):
 
 st.set_page_config(
     page_title="GW SOTA Activator Award",
-    layout="wide"
+    layout="wide",
+    page_icon="🏔️"
 )
 
 st.title("🏔️ GW SOTA Activator Award")
