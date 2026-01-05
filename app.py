@@ -99,29 +99,34 @@ summary_display = (
     .rename(columns={"summits": "Summits Activated"})
 )
 
-st.dataframe(
+table_event = st.dataframe(
     summary_display,
     width="content",
-    hide_index=True
+    hide_index=True,
+    selection_mode="single-row",
+    on_select="rerun",
 )
+
+selected_callsign = None
+
+if table_event and table_event.selection.rows:
+    selected_row = table_event.selection.rows[0]
+    selected_callsign = summary_display.iloc[selected_row]["Callsign"]
 
 
 # ----------------------
 # Map by callsign
 # ----------------------
 
-st.subheader("Map of activations by callsign")
-
-callsigns = sorted(summary["Callsign"].dropna().unique())
-selected_callsign = st.text_input(
-    "Enter callsign (exact match, e.g. MW0PDV)",
-    ""
-)
+st.subheader("Map of activations")
 
 if selected_callsign:
-    df_call = df_year[
-        (df_year["Callsign"] == selected_callsign)
-    ].drop_duplicates(subset=["summitCode"])
+    st.markdown(f"**Selected callsign:** `{selected_callsign}`")
+
+    df_call = (
+        df_year[df_year["Callsign"] == selected_callsign]
+        .drop_duplicates(subset=["summitCode"])
+    )
 
     if df_call.empty:
         st.info("No activations found for that callsign in this year.")
@@ -139,6 +144,8 @@ if selected_callsign:
             ).add_to(m)
 
         st_folium(m, width="stretch")
+else:
+    st.info("Click a callsign in the table above to show their activations on the map.")
 
 # ----------------------
 # Historical winners
