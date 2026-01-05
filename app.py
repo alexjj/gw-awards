@@ -46,7 +46,6 @@ def build_activation_dataframe(data):
 
     return pd.DataFrame(rows)
 
-
 # ----------------------
 # App
 # ----------------------
@@ -60,6 +59,7 @@ st.title("🏔️ GW SOTA Activator Award")
 
 data = load_data()
 df = build_activation_dataframe(data)
+total_gw_summits = sum(region["region"]["summits"] for region in data["regions"].values())
 
 current_year = datetime.now(UTC).year
 available_years = sorted(df["year"].unique(), reverse=True)
@@ -101,6 +101,9 @@ with col_left:
         .drop(columns=["userId"])
         .rename(columns={"summits": "Summits Activated"})
     )
+
+    summary_display["% of GW Summits"] = (
+        summary_display["Summits Activated"] / total_gw_summits * 100).round(0)
 
     table_event = st.dataframe(
         summary_display,
@@ -212,21 +215,22 @@ winners = (
     .sort_values("year", ascending=False)
 )
 
-
-
-
-
 col_left, col_right = st.columns(2)
 
 with col_left:
+
     st.subheader("Top activator per year")
+
     winners_display = (
         winners[["year", "Callsign", "summits"]]
         .rename(columns={
             "year": "Year",
-            "summits": "Summits Activated"
+            "summits": "Summits"
         })
     )
+
+    winners_display["% of GW Summits"] = (
+        winners_display["Summits"] / total_gw_summits * 100).round(0)
 
     st.dataframe(
         winners_display,
@@ -235,6 +239,7 @@ with col_left:
     )
 
 with col_right:
+
     st.subheader("Total GW activations per year")
 
     yearly_totals = (
