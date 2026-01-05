@@ -76,12 +76,6 @@ selected_year = st.selectbox(
 
 df_year = df[df["year"] == selected_year]
 
-# ----------------------
-# GW summits per activator
-# ----------------------
-
-st.subheader(f"GW summits activated in {selected_year}")
-
 summary = (
     df_year
     .drop_duplicates(subset=["userId", "summitCode"])
@@ -93,19 +87,49 @@ summary = (
     .sort_values("summits", ascending=False)
 )
 
-summary_display = (
-    summary
-    .drop(columns=["userId"])
-    .rename(columns={"summits": "Summits Activated"})
-)
+# ----------------------
+# GW summits per activator
+# ----------------------
 
-table_event = st.dataframe(
-    summary_display,
-    width="content",
-    hide_index=True,
-    selection_mode="single-row",
-    on_select="rerun",
-)
+st.subheader(f"GW summits activated in {selected_year}")
+
+col_left, col_right = st.columns(2)
+
+with col_left:
+    summary_display = (
+        summary
+        .drop(columns=["userId"])
+        .rename(columns={"summits": "Summits Activated"})
+    )
+
+    table_event = st.dataframe(
+        summary_display,
+        width="stretch",
+        hide_index=True,
+        selection_mode="single-row",
+        on_select="rerun",
+    )
+
+with col_right:
+    total_summits = summary["summits"].sum()
+    total_activators = summary["Callsign"].nunique()
+
+    st.metric(
+        label="Total GW Summits Activated",
+        value=int(total_summits),
+        border=True
+    )
+
+    st.metric(
+        label="Total Activators",
+        value=int(total_activators),
+        border=True
+    )
+
+# ----------------------
+# Map Selection Logic
+# ----------------------
+
 
 selected_callsign = None
 
@@ -170,8 +194,6 @@ else:
 # Historical winners
 # ----------------------
 
-st.subheader("Historical top activator per year")
-
 historical = (
     df
     .drop_duplicates(subset=["userId", "summitCode", "year"])
@@ -190,20 +212,41 @@ winners = (
     .sort_values("year", ascending=False)
 )
 
-winners_display = (
-    winners[["year", "Callsign", "summits"]]
-    .rename(columns={
-        "year": "Year",
-        "summits": "Summits Activated"
-    })
-)
 
-st.dataframe(
-    winners_display,
-    width="content",
-    hide_index=True
-)
+st.subheader("Historical top activator per year")
 
+
+col_left, col_right = st.columns(2)
+
+with col_left:
+    winners_display = (
+        winners[["year", "Callsign", "summits"]]
+        .rename(columns={
+            "year": "Year",
+            "summits": "Summits Activated"
+        })
+    )
+
+    st.dataframe(
+        winners_display,
+        width="stretch",
+        hide_index=True
+    )
+
+with col_right:
+    yearly_totals = (
+        df
+        .drop_duplicates(subset=["userId", "summitCode", "year"])
+        .groupby("year")
+        .size()
+        .reset_index(name="Total Activations")
+        .sort_values("year")
+    )
+
+    st.bar_chart(
+        yearly_totals.set_index("year"),
+        y="Total Activations"
+    )
 
 # ----------------------
 # Footer
