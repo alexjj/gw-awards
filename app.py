@@ -1,5 +1,5 @@
 import json
-from datetime import datetime
+from datetime import datetime, UTC
 from pathlib import Path
 
 import pandas as pd
@@ -61,7 +61,7 @@ st.title("🏔️ GW SOTA Activator Award")
 data = load_data()
 df = build_activation_dataframe(data)
 
-current_year = datetime.utcnow().year
+current_year = datetime.now(UTC).year
 available_years = sorted(df["year"].unique(), reverse=True)
 
 # ----------------------
@@ -101,7 +101,7 @@ summary_display = (
 
 st.dataframe(
     summary_display,
-    use_container_width=True,
+    width="stretch",
     hide_index=True
 )
 
@@ -138,7 +138,7 @@ if selected_callsign:
                 popup=f"{row['summitCode']} – {row['summitName']}",
             ).add_to(m)
 
-        st_folium(m, use_container_width=True)
+        st_folium(m, width="stretch")
 
 # ----------------------
 # Historical winners
@@ -174,7 +174,7 @@ winners_display = (
 
 st.dataframe(
     winners_display,
-    use_container_width=True,
+    width="stretch",
     hide_index=True
 )
 
