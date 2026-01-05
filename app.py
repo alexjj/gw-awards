@@ -93,7 +93,7 @@ summary = (
 
 st.subheader(f"GW summits activated in {selected_year}")
 
-col_left, col_right = st.columns(2)
+col_left, col_right = st.columns([0.7,0.3])
 
 with col_left:
     summary_display = (
@@ -118,7 +118,7 @@ with col_right:
     total_activators = summary["Callsign"].nunique()
 
     st.metric(
-        label="Total GW Summits Activated",
+        label="Total Summits Activated",
         value=int(total_summits),
         border=True
     )
