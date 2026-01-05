@@ -138,9 +138,28 @@ if selected_callsign:
         )
 
         for _, row in df_call.iterrows():
+            popup = f"""
+            <b>{row['summitName']}</b><br>
+            <a href="https://sotl.as/summits/{row['summitCode']}" target="_blank">
+                {row['summitCode']}
+            </a><br>
+            Points: {row['points']}
+            """
+
             folium.Marker(
                 location=[row["latitude"], row["longitude"]],
-                popup=f"{row['summitCode']} – {row['summitName']}",
+                popup=popup,
+                tooltip=row["summitName"],
+                icon=folium.Icon(
+                    color=(
+                        "lightgreen" if row["points"] == 1 else
+                        "green" if row["points"] == 2 else
+                        "darkgreen" if row["points"] == 4 else
+                        "orange" if row["points"] == 6 else
+                        "darkred" if row["points"] == 8 else
+                        "red"
+                    )
+                )
             ).add_to(m)
 
         st_folium(m, width="stretch")
