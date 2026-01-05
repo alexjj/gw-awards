@@ -93,11 +93,18 @@ summary = (
     .sort_values("summits", ascending=False)
 )
 
+summary_display = (
+    summary
+    .drop(columns=["userId"])
+    .rename(columns={"summits": "Summits Activated"})
+)
+
 st.dataframe(
-    summary,
+    summary_display,
     use_container_width=True,
     hide_index=True
 )
+
 
 # ----------------------
 # Map by callsign
@@ -157,11 +164,20 @@ winners = (
     .sort_values("year", ascending=False)
 )
 
+winners_display = (
+    winners[["year", "Callsign", "summits"]]
+    .rename(columns={
+        "year": "Year",
+        "summits": "Summits Activated"
+    })
+)
+
 st.dataframe(
-    winners[["year", "Callsign", "summits"]],
+    winners_display,
     use_container_width=True,
     hide_index=True
 )
+
 
 # ----------------------
 # Footer
