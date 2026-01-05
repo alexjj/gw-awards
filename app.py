@@ -101,7 +101,7 @@ summary_display = (
 
 st.dataframe(
     summary_display,
-    width="stretch",
+    width="content",
     hide_index=True
 )
 
@@ -174,7 +174,7 @@ winners_display = (
 
 st.dataframe(
     winners_display,
-    width="stretch",
+    width="content",
     hide_index=True
 )
 
