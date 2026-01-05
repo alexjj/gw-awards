@@ -53,7 +53,6 @@ def build_activation_dataframe(data):
 
 st.set_page_config(
     page_title="GW SOTA Activator Award",
-    layout="wide",
     page_icon="🏔️"
 )
 
@@ -214,12 +213,13 @@ winners = (
 )
 
 
-st.subheader("Historical top activator per year")
+
 
 
 col_left, col_right = st.columns(2)
 
 with col_left:
+    st.subheader("Top activator per year")
     winners_display = (
         winners[["year", "Callsign", "summits"]]
         .rename(columns={
@@ -235,6 +235,8 @@ with col_left:
     )
 
 with col_right:
+    st.subheader("Total GW activations per year")
+
     yearly_totals = (
         df
         .drop_duplicates(subset=["userId", "summitCode", "year"])
