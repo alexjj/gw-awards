@@ -9,14 +9,14 @@ from streamlit_folium import st_folium
 
 
 DATA_FILE = Path("gw_sota_data.json")
-
+last_modified = DATA_FILE.stat().st_mtime
 
 # ----------------------
 # Data loading
 # ----------------------
 
 @st.cache_data
-def load_data():
+def load_data(last_modified=last_modified):
     with DATA_FILE.open("r", encoding="utf-8") as f:
         return json.load(f)
 
@@ -57,7 +57,7 @@ st.set_page_config(
 
 st.title("🏔️ GW SOTA Activator Award")
 
-data = load_data()
+data = load_data(last_modified)
 df = build_activation_dataframe(data)
 total_gw_summits = sum(region["region"]["summits"] for region in data["regions"].values())
 
