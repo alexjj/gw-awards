@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-24T02:52:12Z",
+  "generated_at": "2026-01-25T03:09:02Z",
   "association": "GW",
   "regions": {
     "MW": {
@@ -32906,9 +32906,9 @@
             "points": 10,
             "altM": 1085,
             "altFt": 3560,
-            "activationCount": 503,
-            "activationCall": "MW0IDX/P",
-            "activationDate": "2025-12-27T00:00:00Z",
+            "activationCount": 504,
+            "activationCall": "MW9WRD/P",
+            "activationDate": "2026-01-24T00:00:00Z",
             "gridRef1": "SH 609543",
             "gridRef2": "",
             "locator": "IO73xb",
@@ -32924,6 +32924,14 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1162068,
+              "userId": 96991,
+              "activationDate": "2026-01-24T00:00:00Z",
+              "ownCallsign": "MW9WRD/P",
+              "qsos": 4,
+              "Callsign": "M9WRD"
+            },
             {
               "id": 1153010,
               "userId": 53,
@@ -85200,9 +85208,9 @@
             "points": 2,
             "altM": 577,
             "altFt": 1893,
-            "activationCount": 583,
-            "activationCall": "MW0PJE/P",
-            "activationDate": "2026-01-17T00:00:00Z",
+            "activationCount": 585,
+            "activationCall": "M1RTB",
+            "activationDate": "2026-01-24T00:00:00Z",
             "gridRef1": "SJ 176465",
             "gridRef2": "",
             "locator": "IO83ja",
@@ -85218,6 +85226,22 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1162019,
+              "userId": 91630,
+              "activationDate": "2026-01-24T00:00:00Z",
+              "ownCallsign": "MW7MWZ",
+              "qsos": 15,
+              "Callsign": "MW7MWZ"
+            },
+            {
+              "id": 1162032,
+              "userId": 46421,
+              "activationDate": "2026-01-24T00:00:00Z",
+              "ownCallsign": "M1RTB",
+              "qsos": 15,
+              "Callsign": "M1RTB"
+            },
             {
               "id": 1160868,
               "userId": 50555,
