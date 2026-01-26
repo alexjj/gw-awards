@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T03:09:02Z",
+  "generated_at": "2026-01-26T03:10:31Z",
   "association": "GW",
   "regions": {
     "MW": {
@@ -14,7 +14,7 @@
         "minLat": 51.790478,
         "minLong": -4.824017,
         "summits": 40,
-        "notes": "<p>At 40 summits the mid Wales region contains the fewest SOTA summits in Wales. The centre of this region is dominated by the Cambrian Mountains where the highest summit of the region Plynlimon is located. Land use mainly consists of hill sheep farms and forestry.</p>\n<p><a href=\"\"http://cambrian-mountains.co.uk/\"\">http://cambrian-mountains.co.uk</a></p>"
+        "notes": "<div lang='en'>\n<p>At 40 summits the mid Wales region contains the fewest SOTA summits in Wales. The centre of this region is dominated by the Cambrian Mountains where the highest summit of the region Plynlimon is located. Land use mainly consists of hill sheep farms and forestry.</p>\n<p><a href=http://cambrian-mountains.co.uk/>http://cambrian-mountains.co.uk</a></p>\n</div>\n\n<div lang='cy'>\n<p>Gyda 40 o gopaon, rhanbarth Canolbarth Cymru yw’r un â’r nifer lleiaf o gopaon SOTA yng Nghymru. Mae canol y rhanbarth hwn yn cael ei ddominyddu gan Fynyddoedd y Cambrian, lle lleolir copa uchaf y rhanbarth, sef Pumlumon. Mae defnydd tir yn cynnwys yn bennaf ffermydd defaid mynydd a choedwigaeth.</p>\n<p><a href=http://cambrian-mountains.co.uk/>http://cambrian-mountains.co.uk</a></p>\n</div>"
       },
       "summits": {
         "GW/MW-001": {
@@ -12253,9 +12253,9 @@
             "points": 2,
             "altM": 514,
             "altFt": 1685,
-            "activationCount": 480,
-            "activationCall": "GW4BML/P",
-            "activationDate": "2026-01-18T00:00:00Z",
+            "activationCount": 482,
+            "activationCall": "GW4HQB/P",
+            "activationDate": "2026-01-25T00:00:00Z",
             "gridRef1": "SO 306969",
             "gridRef2": "",
             "locator": "IO82ln",
@@ -12271,6 +12271,22 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1162526,
+              "userId": 13011,
+              "activationDate": "2026-01-25T00:00:00Z",
+              "ownCallsign": "MW0OVW/P",
+              "qsos": 18,
+              "Callsign": "M0OVW"
+            },
+            {
+              "id": 1162528,
+              "userId": 11851,
+              "activationDate": "2026-01-25T00:00:00Z",
+              "ownCallsign": "GW4HQB/P",
+              "qsos": 15,
+              "Callsign": "G4HQB"
+            },
             {
               "id": 1160999,
               "userId": 49271,
@@ -19829,7 +19845,7 @@
               "activationDate": "2024-08-04T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 7,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 925542,
@@ -23105,7 +23121,7 @@
               "activationDate": "2025-08-03T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 8,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 1111113,
@@ -32891,7 +32907,7 @@
         "minLat": 52.61892,
         "minLong": -4.783113,
         "summits": 78,
-        "notes": "<p>The main area within North Wales is the Snowdonia National Park, which encompasses 840 square miles and includes the highest peak in England and Wales, Mount Snowdon. Snowdonia also boasts some of the finest technical climbing to be found in the U.K. There are numerous outdoor centres, camping and accommodation. Snowdonia, particularly Snowdon and the Glyderau was also the training ground for Sir Edmund Hillary and most of the successful 1953 Everest expedition team.</p>\n\n<p>The average annual rainfall around the upland areas of The National Park is around 100 inches with Capel Curig regularly receiving some of the highest levels to be found in the U.K.  Being close to the sea makes Snowdonia particularly prone to changeable weather, the temperature decreases at the rate of 1°C /100m (2°F /300 feet) with increased altitude.</p>\n<p><a href=\"\"https://www.metoffice.gov.uk/weather/specialist-forecasts/mountain/snowdonia\"\">https://www.metoffice.gov.uk/weather/specialist-forecasts/mountain/snowdonia</a></p>\n\n<p>Bardsey Island is a fascinating small island (IOTA EU-124) with lots of history located off the Lleyn Peninsula, West of the Snowdonia national park. It has the SOTA summit of Mynydd Enlli GW/NW-072 (IOTA EU-124) which is easily accessible by boat during the summer months for day trips. Cottages are also available to rent on the island.</p>\n<p><a href=\"\"http://www.bardseyboattrips.com/\"\">http://www.bardseyboattrips.com/</a><p>\n<p><a href=\"\"https://www.bardsey.org/\"\">http://www.bardseyboattrips.com/</a><p>\n\n<p>Travel routes to North Wales are good, with the A55 from the East and A5 from the South, closest main airports being Manchester and Liverpool with train routes running along the North coast.  These routes are also ideally placed for entry into Ireland via the Holyhead ferry.</p>\n<p><a href=\"\"http://www.visitwales.com/explore/north-wales/snowdonia-mountains-coast\"\">http://www.visitwales.com/explore/north-wales/snowdonia-mountains-coast</a></p>\n<p><a href=\"\"http://www.visitsnowdonia.info/\"\">http://www.visitsnowdonia.info/</a></p>\n\n<p>Details of the six main routes to the summit of Snowdon can be found below.</p>\n<p><a href=\"\"https://www.mountain-walks.co.uk/snowdon-routes/\"\">https://www.mountain-walks.co.uk/snowdon-routes/</a></p>"
+        "notes": "<div lang='en'>\n<p>The main area within North Wales is the Eryri National Park which encompasses 840 square miles and includes the highest peak in England and Wales, Yr Wyddfa (previously known as Snowdon). Eryri also boasts some of the finest technical climbing to be found in the U.K. There are numerous outdoor centres, camping and accommodation. Eryri, particularly Yr Wyddfa and the Glyderau was also the training ground for Sir Edmund Hillary and most of the successful 1953 Everest expedition team.</p>\n\n<p>The average annual rainfall around the upland areas of The National Park is around 100 inches with Capel Curig regularly receiving some of the highest levels to be found in the U.K. Being close to the sea makes Eryri particularly prone to changeable weather, the temperature decreases at the rate of 1°C /100m (2°F /300 feet) with increased altitude.</p>\n<p><a href=https://www.metoffice.gov.uk/weather/specialist-forecasts/mountain/snowdonia>https://www.metoffice.gov.uk/weather/specialist-forecasts/mountain/snowdonia</a></p>\n\n<p>Bardsey Island is a fascinating small island (IOTA EU-124) with lots of history located off the Lleyn Peninsula, West of the Eryri National Park. It has the SOTA summit of Mynydd Enlli GW/NW-072 (IOTA EU-124) which is easily accessible by boat during the summer months for day trips. Cottages are also available to rent on the island.</p>\n<p><a href=http://www.bardseyboattrips.com/>http://www.bardseyboattrips.com/</a><p>\n\n<p>Travel routes to North Wales are good, with the A55 from the East and A5 from the South, closest main airports being Manchester and Liverpool with train routes running along the North coast. These routes are also ideally placed for entry into Ireland via the Holyhead ferry.</p>\n<p><a href=http://www.visitwales.com/explore/north-wales/snowdonia-mountains-coast>http://www.visitwales.com/explore/north-wales/snowdonia-mountains-coast</a></p>\n<p><a href=http://www.visitsnowdonia.info/>http://www.visitsnowdonia.info/</a></p>\n\n<p>Details of the six main routes to the summit of Yr Wyddfa can be found below.</p>\n<p><a href=https://www.mountain-walks.co.uk/snowdon-routes/>https://www.mountain-walks.co.uk/snowdon-routes/</a></p>\n</div>\n\n<div lang='cy'>\n<p>Prif ardal Gogledd Cymru yw Parc Cenedlaethol Eryri, sy’n cwmpasu 840 milltir sgwâr ac sy’n cynnwys y copa uchaf yng Nghymru a Lloegr, sef Yr Wyddfa. Mae Eryri hefyd yn ymffrostio mewn rhai o’r dringfeydd technegol gorau i’w cael yn y Deyrnas Unedig. Ceir nifer o ganolfannau awyr agored, meysydd gwersylla a llety yn yr ardal. Roedd Eryri, yn enwedig Yr Wyddfa a’r Glyderau, hefyd yn faes hyfforddi i Syr Edmund Hillary a’r rhan fwyaf o aelodau llwyddiannus tîm dringwyr Everest 1953.</p>\n\n<p>Mae’r glawiad blynyddol cyfartalog o amgylch ardaloedd ucheldirol y Parc Cenedlaethol tua 100 modfedd, gyda Chapel Curig yn derbyn rhai o’r lefelau uchaf i’w cael yn y Deyrnas Unedig yn rheolaidd. Oherwydd ei agosrwydd at y môr, mae Eryri yn arbennig o agored i dywydd anwadal; mae’r tymheredd yn gostwng ar gyfradd o 1°C am bob 100m (2°F am bob 300 troedfedd) o uchder ychwanegol.</p>\n<p><a href=https://www.metoffice.gov.uk/weather/specialist-forecasts/mountain/snowdonia>https://www.metoffice.gov.uk/weather/specialist-forecasts/mountain/snowdonia</a></p>\n\n<p>Mae Ynys Enlli (IOTA EU-124) yn ynys fach hynod ddiddorol oddi ar Benrhyn Llyn, i’r gorllewin o Barc Cenedlaethol Eryri. Ceir y copa SOTA Mynydd Enlli – GW/NW-072 ar yr ynys, ac mae modd ymweld â hi’n hawdd ar gwch yn ystod misoedd yr haf. Mae cotiau hefyd ar gael i’w llogi.</p>\n<p><a href=http://www.visitwales.com/explore/north-wales/snowdonia-mountains-coast>http://www.visitwales.com/explore/north-wales/snowdonia-mountains-coast</a></p>\n<p><a href=http://www.visitsnowdonia.info/>http://www.visitsnowdonia.info/</a></p>\n\n<p>Mae’r llwybrau teithio i Ogledd Cymru yn dda, gyda’r A55 o’r Dwyrain a’r A5 o’r De, a’r meysydd awyr agosaf o bwys yn Fanceinion a Lerpwl, gyda llwybrau trên yn rhedeg ar hyd arfordir y Gogledd. Mae’r llwybrau hyn hefyd wedi’u lleoli’n ddelfrydol ar gyfer teithio i Iwerddon drwy’r fferi o Gaergybi.</p>\n<p><a href=http://www.visitwales.com/explore/north-wales/snowdonia-mountains-coast>http://www.visitwales.com/explore/north-wales/snowdonia-mountains-coast</a></p>\n<p><a href=http://www.visitsnowdonia.info/>http://www.visitsnowdonia.info/</a></p>\n\nCeir manylion am y chwe phrif lwybr i gopa’r Wyddfa yma:</p>\n<p><a href=https://www.mountain-walks.co.uk/snowdon-routes/>https://www.mountain-walks.co.uk/snowdon-routes/</a></p>\n</div>"
       },
       "summits": {
         "GW/NW-001": {
@@ -33546,7 +33562,7 @@
               "activationDate": "2022-12-03T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 5,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 726903,
@@ -37042,7 +37058,7 @@
               "activationDate": "2025-04-12T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 5,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 1074295,
@@ -37082,7 +37098,7 @@
               "activationDate": "2024-07-14T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 5,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 947713,
@@ -37218,7 +37234,7 @@
               "activationDate": "2023-04-07T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 6,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 777712,
@@ -37354,7 +37370,7 @@
               "activationDate": "2021-10-10T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 15,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 570250,
@@ -42538,7 +42554,7 @@
               "activationDate": "2024-08-31T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 5,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 959096,
@@ -45522,7 +45538,7 @@
               "activationDate": "2024-06-30T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 4,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 952282,
@@ -45706,7 +45722,7 @@
               "activationDate": "2022-08-06T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 6,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 675496,
@@ -48298,7 +48314,7 @@
               "activationDate": "2023-05-10T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 5,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 797591,
@@ -50202,7 +50218,7 @@
               "activationDate": "2021-12-19T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 13,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 587961,
@@ -51826,7 +51842,7 @@
               "activationDate": "2024-05-25T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 5,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 939188,
@@ -51994,7 +52010,7 @@
               "activationDate": "2022-08-27T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 5,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 682027,
@@ -53330,7 +53346,7 @@
               "activationDate": "2025-04-27T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 5,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 1078669,
@@ -53474,7 +53490,7 @@
               "activationDate": "2024-03-30T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 7,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 923048,
@@ -53522,7 +53538,7 @@
               "activationDate": "2023-08-28T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 9,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 849048,
@@ -53778,7 +53794,7 @@
               "activationDate": "2022-01-16T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 6,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 1065068,
@@ -53930,7 +53946,7 @@
               "activationDate": "2021-05-29T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 6,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 534055,
@@ -55850,7 +55866,7 @@
               "activationDate": "2022-09-11T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 6,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 687854,
@@ -57962,7 +57978,7 @@
               "activationDate": "2025-05-11T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 6,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 1084915,
@@ -59149,7 +59165,7 @@
               "activationDate": "2025-03-09T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 6,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 1057734,
@@ -60749,7 +60765,7 @@
               "activationDate": "2022-08-27T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 7,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 682088,
@@ -63917,7 +63933,7 @@
               "activationDate": "2024-09-14T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 5,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 978158,
@@ -64853,7 +64869,7 @@
               "activationDate": "2024-08-10T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 4,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 964285,
@@ -71176,7 +71192,7 @@
               "activationDate": "2021-11-07T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 4,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 577588,
@@ -72608,7 +72624,7 @@
               "activationDate": "2026-01-17T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 6,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 1160351,
@@ -73696,7 +73712,7 @@
               "activationDate": "2025-08-09T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 6,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 1113249,
@@ -73800,7 +73816,7 @@
               "activationDate": "2023-02-12T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 9,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 887611,
@@ -74392,7 +74408,7 @@
               "activationDate": "2024-10-27T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 5,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 999731,
@@ -74472,7 +74488,7 @@
               "activationDate": "2023-05-29T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 9,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 814538,
@@ -75888,7 +75904,7 @@
               "activationDate": "2025-02-22T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 6,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 945553,
@@ -75904,7 +75920,7 @@
               "activationDate": "2024-04-20T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 7,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 928907,
@@ -75992,7 +76008,7 @@
               "activationDate": "2023-01-29T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 7,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 746231,
@@ -79944,7 +79960,7 @@
               "activationDate": "2024-06-02T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 5,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 943958,
@@ -80152,7 +80168,7 @@
               "activationDate": "2022-07-10T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 7,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 641714,
@@ -81600,7 +81616,7 @@
               "activationDate": "2025-03-02T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 6,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 1055732,
@@ -81720,7 +81736,7 @@
               "activationDate": "2024-01-28T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 9,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 902278,
@@ -81824,7 +81840,7 @@
               "activationDate": "2023-05-07T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 8,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 796302,
@@ -82160,7 +82176,7 @@
               "activationDate": "2021-09-04T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 7,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 565037,
@@ -85472,7 +85488,7 @@
               "activationDate": "2025-01-25T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 6,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 1043759,
@@ -85648,7 +85664,7 @@
               "activationDate": "2024-02-24T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 6,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 914182,
@@ -85792,7 +85808,7 @@
               "activationDate": "2023-11-25T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 11,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 862736,
@@ -86368,7 +86384,7 @@
               "activationDate": "2021-08-14T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 7,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 559755,
@@ -90304,7 +90320,7 @@
               "activationDate": "2025-01-25T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 6,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 1043764,
@@ -90776,7 +90792,7 @@
               "activationDate": "2024-01-27T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 8,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 901801,
@@ -91184,7 +91200,7 @@
               "activationDate": "2023-02-18T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 6,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 759065,
@@ -95744,7 +95760,7 @@
               "activationDate": "2024-08-24T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 5,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 967648,
@@ -96536,7 +96552,7 @@
               "activationDate": "2022-01-09T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 6,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 594039,
@@ -103992,7 +104008,7 @@
               "activationDate": "2025-11-08T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 7,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 1141259,
@@ -104128,7 +104144,7 @@
               "activationDate": "2024-05-18T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 4,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 936651,
@@ -105072,9 +105088,9 @@
             "points": 2,
             "altM": 523,
             "altFt": 1716,
-            "activationCount": 169,
-            "activationCall": "GW4BML/P",
-            "activationDate": "2026-01-01T00:00:00Z",
+            "activationCount": 170,
+            "activationCall": "MW0PDV/P",
+            "activationDate": "2026-01-25T00:00:00Z",
             "gridRef1": "SJ 184293",
             "gridRef2": "",
             "locator": "IO82ju",
@@ -105090,6 +105106,14 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1162377,
+              "userId": 6896,
+              "activationDate": "2026-01-25T00:00:00Z",
+              "ownCallsign": "MW0PDV/P",
+              "qsos": 14,
+              "Callsign": "MW0PDV"
+            },
             {
               "id": 1158815,
               "userId": 49271,
@@ -105160,7 +105184,7 @@
               "activationDate": "2025-03-01T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 6,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 1054616,
@@ -105216,7 +105240,7 @@
               "activationDate": "2024-05-27T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 4,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 939187,
@@ -105568,7 +105592,7 @@
               "activationDate": "2021-05-09T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 4,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 1065125,
@@ -107272,7 +107296,7 @@
               "activationDate": "2025-03-22T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 5,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 1058509,
@@ -107584,7 +107608,7 @@
               "activationDate": "2024-02-10T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 5,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 906928,
@@ -107704,7 +107728,7 @@
               "activationDate": "2023-12-17T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 6,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 882361,
@@ -108160,7 +108184,7 @@
               "activationDate": "2022-01-09T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 5,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 594042,
@@ -115443,7 +115467,7 @@
               "activationDate": "2022-11-13T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 8,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 722606,
@@ -115755,7 +115779,7 @@
               "activationDate": "2020-12-06T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 4,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 441996,
@@ -121387,7 +121411,7 @@
               "activationDate": "2021-05-09T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 4,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 528027,
@@ -123115,7 +123139,7 @@
               "activationDate": "2023-10-15T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 5,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 863500,
@@ -131227,7 +131251,7 @@
               "activationDate": "2025-01-11T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 8,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 1037610,
@@ -131427,7 +131451,7 @@
               "activationDate": "2024-02-04T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 6,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 881114,
@@ -131595,7 +131619,7 @@
               "activationDate": "2022-10-01T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 7,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 693611,
@@ -137459,7 +137483,7 @@
               "activationDate": "2022-06-04T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 6,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 641636,
@@ -139635,7 +139659,7 @@
               "activationDate": "2025-10-05T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 2,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 1132106,
@@ -139755,7 +139779,7 @@
               "activationDate": "2024-12-01T00:00:00Z",
               "ownCallsign": "2W0NYQ/P",
               "qsos": 12,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 1012759,
@@ -140035,7 +140059,7 @@
               "activationDate": "2023-03-12T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 9,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 754890,
@@ -140515,7 +140539,7 @@
               "activationDate": "2021-04-18T00:00:00Z",
               "ownCallsign": "MW7NDC",
               "qsos": 5,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 475597,
@@ -142837,7 +142861,7 @@
         "minLat": 51.543255,
         "minLong": -4.202237,
         "summits": 41,
-        "notes": "<p>The Brecon Beacons national park was established in 1957 and dominates the South Wales region. It contains the highest peaks of the region and is used by the British military for training, most notably by the SAS.</p>\n<p><a href=\"\"https://breconbeaconstourism.org/\"\">https://breconbeaconstourism.org/</a></p>\n\n<p><a href=\"\"https://www.metoffice.gov.uk/weather/specialist-forecasts/mountain/brecon-beacons\"\">https://www.metoffice.gov.uk/weather/specialist-forecasts/mountain/brecon-beacons</a></p>"
+        "notes": "<div lang='en'>"
       },
       "summits": {
         "GW/SW-001": {
@@ -144044,7 +144068,7 @@
               "activationDate": "2021-09-15T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 9,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 556586,
@@ -146596,9 +146620,9 @@
             "points": 8,
             "altM": 811,
             "altFt": 2661,
-            "activationCount": 290,
-            "activationCall": "GW5JFJ/P",
-            "activationDate": "2026-01-03T00:00:00Z",
+            "activationCount": 291,
+            "activationCall": "MW0KVI/P",
+            "activationDate": "2026-01-25T00:00:00Z",
             "gridRef1": "SO 215299",
             "gridRef2": "",
             "locator": "IO81kx",
@@ -146614,6 +146638,14 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1162583,
+              "userId": 56469,
+              "activationDate": "2026-01-25T00:00:00Z",
+              "ownCallsign": "MW0KVI/P",
+              "qsos": 18,
+              "Callsign": "M0KVI"
+            },
             {
               "id": 1156545,
               "userId": 91596,
@@ -147356,7 +147388,7 @@
               "activationDate": "2021-09-17T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 7,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 566535,
@@ -149604,7 +149636,7 @@
               "activationDate": "2021-09-13T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 10,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 565651,
@@ -151884,7 +151916,7 @@
               "activationDate": "2021-09-15T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 6,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 542881,
@@ -154076,7 +154108,7 @@
               "activationDate": "2021-09-14T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 5,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 567496,
@@ -156588,7 +156620,7 @@
               "activationDate": "2021-09-11T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 8,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 566915,
@@ -158772,7 +158804,7 @@
               "activationDate": "2021-09-11T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 6,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 556596,
@@ -186374,7 +186406,7 @@
             "longitude": -3.122157,
             "myChases": 0,
             "myActivations": 0,
-            "validTo": "2099-12-31T00:00:00Z",
+            "validTo": "2026-03-01T23:59:59Z",
             "validFrom": "2002-03-02T00:00:00Z",
             "valid": true,
             "restrictionMask": false,
@@ -193532,9 +193564,9 @@
             "points": 6,
             "altM": 704,
             "altFt": 2308,
-            "activationCount": 328,
-            "activationCall": "MW0CBC/P",
-            "activationDate": "2026-01-14T00:00:00Z",
+            "activationCount": 330,
+            "activationCall": "MW0KEC/P",
+            "activationDate": "2026-01-25T00:00:00Z",
             "gridRef1": "SO 255353",
             "gridRef2": "",
             "locator": "IO82ka",
@@ -193550,6 +193582,22 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1162401,
+              "userId": 52230,
+              "activationDate": "2026-01-25T00:00:00Z",
+              "ownCallsign": "MW0KXN/P",
+              "qsos": 10,
+              "Callsign": "MW0KXN"
+            },
+            {
+              "id": 1162591,
+              "userId": 60700,
+              "activationDate": "2026-01-25T00:00:00Z",
+              "ownCallsign": "MW0KEC/P",
+              "qsos": 9,
+              "Callsign": "MW0KEC"
+            },
             {
               "id": 1159784,
               "userId": 466,
@@ -194396,7 +194444,7 @@
               "activationDate": "2021-09-12T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 11,
-              "Callsign": "2E0NYQ"
+              "Callsign": "M5NIC"
             },
             {
               "id": 562941,
