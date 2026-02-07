@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T03:29:03Z",
+  "generated_at": "2026-02-07T03:22:21Z",
   "association": "GW",
   "regions": {
     "MW": {
@@ -32961,7 +32961,27 @@
             "valid": true,
             "restrictionMask": false,
             "restrictionList": null,
-            "tagCount": 0
+            "tags": [
+              {
+                "Tooltip": "Disability Friendly",
+                "TagID": 0,
+                "Icon": "disability.png",
+                "Callsign": null,
+                "Description": "",
+                "SummitID": 1443,
+                "Active": true
+              },
+              {
+                "Tooltip": "Public Transport",
+                "TagID": 0,
+                "Icon": "bus.png",
+                "Callsign": null,
+                "Description": "",
+                "SummitID": 1443,
+                "Active": true
+              }
+            ],
+            "tagCount": 2
           },
           "activations": [
             {
@@ -131170,7 +131190,45 @@
             "valid": true,
             "restrictionMask": false,
             "restrictionList": null,
-            "tagCount": 0
+            "tags": [
+              {
+                "Tooltip": "Cycle Friendly",
+                "TagID": 0,
+                "Icon": "mountain-bike.png",
+                "Callsign": null,
+                "Description": "",
+                "SummitID": 1512,
+                "Active": true
+              },
+              {
+                "Tooltip": "Disability Friendly",
+                "TagID": 0,
+                "Icon": "disability.png",
+                "Callsign": null,
+                "Description": "",
+                "SummitID": 1512,
+                "Active": true
+              },
+              {
+                "Tooltip": "Drive up",
+                "TagID": 0,
+                "Icon": "car.png",
+                "Callsign": null,
+                "Description": "",
+                "SummitID": 1512,
+                "Active": true
+              },
+              {
+                "Tooltip": "Public Transport",
+                "TagID": 0,
+                "Icon": "bus.png",
+                "Callsign": null,
+                "Description": "",
+                "SummitID": 1512,
+                "Active": true
+              }
+            ],
+            "tagCount": 4
           },
           "activations": [
             {
@@ -177627,7 +177685,36 @@
             "valid": true,
             "restrictionMask": false,
             "restrictionList": null,
-            "tagCount": 0
+            "tags": [
+              {
+                "Tooltip": "Cycle Friendly",
+                "TagID": 0,
+                "Icon": "mountain-bike.png",
+                "Callsign": null,
+                "Description": "",
+                "SummitID": 6250,
+                "Active": true
+              },
+              {
+                "Tooltip": "Disability Friendly",
+                "TagID": 0,
+                "Icon": "disability.png",
+                "Callsign": null,
+                "Description": "",
+                "SummitID": 6250,
+                "Active": true
+              },
+              {
+                "Tooltip": "Drive up",
+                "TagID": 0,
+                "Icon": "car.png",
+                "Callsign": null,
+                "Description": "",
+                "SummitID": 6250,
+                "Active": true
+              }
+            ],
+            "tagCount": 3
           },
           "activations": [
             {
@@ -185131,7 +185218,36 @@
             "valid": true,
             "restrictionMask": false,
             "restrictionList": null,
-            "tagCount": 0
+            "tags": [
+              {
+                "Tooltip": "Cycle Friendly",
+                "TagID": 0,
+                "Icon": "mountain-bike.png",
+                "Callsign": null,
+                "Description": "",
+                "SummitID": 6260,
+                "Active": true
+              },
+              {
+                "Tooltip": "Disability Friendly",
+                "TagID": 0,
+                "Icon": "disability.png",
+                "Callsign": null,
+                "Description": "",
+                "SummitID": 6260,
+                "Active": true
+              },
+              {
+                "Tooltip": "Drive up",
+                "TagID": 0,
+                "Icon": "car.png",
+                "Callsign": null,
+                "Description": "",
+                "SummitID": 6260,
+                "Active": true
+              }
+            ],
+            "tagCount": 3
           },
           "activations": [
             {
