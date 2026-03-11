@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T03:24:02Z",
+  "generated_at": "2026-03-11T03:23:25Z",
   "association": "GW",
   "regions": {
     "MW": {
@@ -78343,11 +78343,11 @@
           },
           "activations": [
             {
-              "id": 1173026,
+              "id": 1173665,
               "userId": 82,
               "activationDate": "2025-12-28T00:00:00Z",
               "ownCallsign": "GW4COX/P",
-              "qsos": 1,
+              "qsos": 4,
               "Callsign": "GM4COX"
             },
             {
@@ -167766,7 +167766,7 @@
             "points": 2,
             "altM": 596,
             "altFt": 1955,
-            "activationCount": 280,
+            "activationCount": 281,
             "activationCall": "MW0KEC",
             "activationDate": "2026-03-08T00:00:00Z",
             "gridRef1": "SO 272187",
@@ -167799,6 +167799,14 @@
               "ownCallsign": "GW5JFJ/P",
               "qsos": 6,
               "Callsign": "G5JFJ"
+            },
+            {
+              "id": 1173566,
+              "userId": 2771,
+              "activationDate": "2026-03-05T00:00:00Z",
+              "ownCallsign": "MW0JLA/P",
+              "qsos": 7,
+              "Callsign": "M0JLA"
             },
             {
               "id": 1171713,
