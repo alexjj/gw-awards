@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T03:23:25Z",
+  "generated_at": "2026-03-12T03:29:35Z",
   "association": "GW",
   "regions": {
     "MW": {
@@ -12349,9 +12349,9 @@
             "points": 2,
             "altM": 514,
             "altFt": 1685,
-            "activationCount": 490,
-            "activationCall": "M1RTB",
-            "activationDate": "2026-03-09T00:00:00Z",
+            "activationCount": 492,
+            "activationCall": "G7HEM",
+            "activationDate": "2026-03-11T00:00:00Z",
             "gridRef1": "SO 306969",
             "gridRef2": "",
             "locator": "IO82ln",
@@ -12367,6 +12367,22 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1173843,
+              "userId": 8211,
+              "activationDate": "2026-03-11T00:00:00Z",
+              "ownCallsign": "G7HEM",
+              "qsos": 41,
+              "Callsign": "G7HEM"
+            },
+            {
+              "id": 1173798,
+              "userId": 10982,
+              "activationDate": "2026-03-10T00:00:00Z",
+              "ownCallsign": "GW0MHF/P",
+              "qsos": 4,
+              "Callsign": "G0MHF"
+            },
             {
               "id": 1173429,
               "userId": 91630,
@@ -102076,9 +102092,9 @@
             "points": 2,
             "altM": 541,
             "altFt": 1773,
-            "activationCount": 137,
-            "activationCall": "MW0PJE/P",
-            "activationDate": "2026-02-22T00:00:00Z",
+            "activationCount": 138,
+            "activationCall": "MW0PDV/P",
+            "activationDate": "2026-03-11T00:00:00Z",
             "gridRef1": "SJ 054211",
             "gridRef2": "",
             "locator": "IO82hs",
@@ -102094,6 +102110,14 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1173827,
+              "userId": 6896,
+              "activationDate": "2026-03-11T00:00:00Z",
+              "ownCallsign": "MW0PDV/P",
+              "qsos": 6,
+              "Callsign": "MW0PDV"
+            },
             {
               "id": 1168826,
               "userId": 50555,
