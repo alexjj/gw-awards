@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T03:52:32Z",
+  "generated_at": "2026-03-17T03:30:40Z",
   "association": "GW",
   "regions": {
     "MW": {
@@ -8592,20 +8592,20 @@
               "Callsign": "M1EYP"
             },
             {
-              "id": 340012,
-              "userId": 3192,
-              "activationDate": "2018-12-22T00:00:00Z",
-              "ownCallsign": "MW6BWA/P",
-              "qsos": 20,
-              "Callsign": "M6BWA"
-            },
-            {
               "id": 332032,
               "userId": 2771,
               "activationDate": "2018-12-22T00:00:00Z",
               "ownCallsign": "MW0JLA/P",
               "qsos": 25,
               "Callsign": "M0JLA"
+            },
+            {
+              "id": 340012,
+              "userId": 3192,
+              "activationDate": "2018-12-22T00:00:00Z",
+              "ownCallsign": "MW6BWA/P",
+              "qsos": 20,
+              "Callsign": "M6BWA"
             },
             {
               "id": 331864,
@@ -20256,20 +20256,20 @@
               "Callsign": "G4HQB"
             },
             {
-              "id": 387987,
-              "userId": 2771,
-              "activationDate": "2019-09-18T00:00:00Z",
-              "ownCallsign": "MW0JLA/P",
-              "qsos": 17,
-              "Callsign": "M0JLA"
-            },
-            {
               "id": 396828,
               "userId": 3192,
               "activationDate": "2019-09-18T00:00:00Z",
               "ownCallsign": "MW6BWA/P",
               "qsos": 9,
               "Callsign": "M6BWA"
+            },
+            {
+              "id": 387987,
+              "userId": 2771,
+              "activationDate": "2019-09-18T00:00:00Z",
+              "ownCallsign": "MW0JLA/P",
+              "qsos": 17,
+              "Callsign": "M0JLA"
             },
             {
               "id": 378676,
@@ -20328,20 +20328,20 @@
               "Callsign": "G4TQE"
             },
             {
-              "id": 289197,
-              "userId": 3192,
-              "activationDate": "2018-04-01T00:00:00Z",
-              "ownCallsign": "MW6BWA/P",
-              "qsos": 9,
-              "Callsign": "M6BWA"
-            },
-            {
               "id": 286452,
               "userId": 2771,
               "activationDate": "2018-04-01T00:00:00Z",
               "ownCallsign": "MW0JLA/P",
               "qsos": 14,
               "Callsign": "M0JLA"
+            },
+            {
+              "id": 289197,
+              "userId": 3192,
+              "activationDate": "2018-04-01T00:00:00Z",
+              "ownCallsign": "MW6BWA/P",
+              "qsos": 9,
+              "Callsign": "M6BWA"
             },
             {
               "id": 250240,
