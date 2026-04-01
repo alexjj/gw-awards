@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T03:47:51Z",
+  "generated_at": "2026-04-01T03:59:16Z",
   "association": "GW",
   "regions": {
     "MW": {
@@ -12437,7 +12437,7 @@
               "activationDate": "2026-03-09T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 4,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1173446,
@@ -12781,7 +12781,7 @@
               "activationDate": "2025-01-04T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 8,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1031346,
@@ -12805,7 +12805,7 @@
               "activationDate": "2024-12-17T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 12,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1023903,
@@ -12853,7 +12853,7 @@
               "activationDate": "2024-09-20T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 6,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 963929,
@@ -23529,7 +23529,7 @@
               "activationDate": "2024-06-08T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 16,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 945088,
@@ -33318,7 +33318,7 @@
               "activationDate": "2025-09-27T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 19,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1128435,
@@ -53646,9 +53646,9 @@
             "points": 8,
             "altM": 832,
             "altFt": 2730,
-            "activationCount": 301,
-            "activationCall": "MW0WML/P",
-            "activationDate": "2026-03-21T00:00:00Z",
+            "activationCount": 302,
+            "activationCall": "M7IGM",
+            "activationDate": "2026-03-31T00:00:00Z",
             "gridRef1": "SJ 071323",
             "gridRef2": "",
             "locator": "IO82hv",
@@ -53664,6 +53664,14 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1179991,
+              "userId": 102228,
+              "activationDate": "2026-03-31T00:00:00Z",
+              "ownCallsign": "M7IGM",
+              "qsos": 14,
+              "Callsign": "M7IGM"
+            },
             {
               "id": 1176647,
               "userId": 3504,
@@ -61049,7 +61057,7 @@
               "activationDate": "2024-10-26T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 18,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 996930,
@@ -64361,7 +64369,7 @@
               "activationDate": "2025-04-26T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 11,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 985156,
@@ -64401,7 +64409,7 @@
               "activationDate": "2024-07-15T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 20,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 951394,
@@ -65385,7 +65393,7 @@
               "activationDate": "2024-03-22T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 17,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 916613,
@@ -69556,7 +69564,7 @@
               "activationDate": "2024-05-25T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 24,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 934018,
@@ -70700,7 +70708,7 @@
               "activationDate": "2024-09-06T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 31,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 962494,
@@ -73172,7 +73180,7 @@
               "activationDate": "2024-12-21T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 4,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1026694,
@@ -74868,7 +74876,7 @@
               "activationDate": "2025-06-07T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 12,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1096001,
@@ -77564,7 +77572,7 @@
               "activationDate": "2025-12-21T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 59,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1124560,
@@ -77636,7 +77644,7 @@
               "activationDate": "2024-12-01T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 5,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1011876,
@@ -77692,7 +77700,7 @@
               "activationDate": "2024-05-11T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 18,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 914200,
@@ -80412,7 +80420,7 @@
               "activationDate": "2026-02-08T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 6,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1132939,
@@ -80452,7 +80460,7 @@
               "activationDate": "2025-08-22T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 16,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1120167,
@@ -80604,7 +80612,7 @@
               "activationDate": "2024-04-19T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 30,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 915853,
@@ -82372,7 +82380,7 @@
               "activationDate": "2024-02-03T00:00:00Z",
               "ownCallsign": "MW7MWZ/P",
               "qsos": 11,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 903710,
@@ -85980,7 +85988,7 @@
               "activationDate": "2026-01-24T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 15,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1162032,
@@ -86204,7 +86212,7 @@
               "activationDate": "2025-02-22T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 20,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1055462,
@@ -86372,7 +86380,7 @@
               "activationDate": "2024-03-08T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 5,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 916675,
@@ -86596,7 +86604,7 @@
               "activationDate": "2023-07-07T00:00:00Z",
               "ownCallsign": "MW7MWZ/P",
               "qsos": 4,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 822562,
@@ -90740,7 +90748,7 @@
               "activationDate": "2026-02-21T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 30,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1168454,
@@ -91100,7 +91108,7 @@
               "activationDate": "2025-02-16T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 14,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1045237,
@@ -91524,7 +91532,7 @@
               "activationDate": "2024-03-08T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 10,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 916676,
@@ -91756,7 +91764,7 @@
               "activationDate": "2023-12-02T00:00:00Z",
               "ownCallsign": "MW7MWZ/P",
               "qsos": 7,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 877289,
@@ -96260,7 +96268,7 @@
               "activationDate": "2026-01-17T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 23,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1160217,
@@ -96396,7 +96404,7 @@
               "activationDate": "2025-07-30T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 12,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1121183,
@@ -96508,7 +96516,7 @@
               "activationDate": "2025-02-01T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 21,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1041405,
@@ -96612,7 +96620,7 @@
               "activationDate": "2024-10-02T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 4,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 968788,
@@ -96740,7 +96748,7 @@
               "activationDate": "2024-02-17T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 10,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 907063,
@@ -96892,7 +96900,7 @@
               "activationDate": "2023-11-11T00:00:00Z",
               "ownCallsign": "MW7MWZ/P",
               "qsos": 18,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 882951,
@@ -96908,7 +96916,7 @@
               "activationDate": "2023-10-25T00:00:00Z",
               "ownCallsign": "MW7MWZ/P",
               "qsos": 2,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 854819,
@@ -102524,7 +102532,7 @@
               "activationDate": "2024-08-31T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 21,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 969427,
@@ -103652,7 +103660,7 @@
               "activationDate": "2025-03-01T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 22,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1054530,
@@ -103700,7 +103708,7 @@
               "activationDate": "2024-05-04T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 30,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 915431,
@@ -105092,7 +105100,7 @@
               "activationDate": "2024-07-27T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 15,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 949795,
@@ -106076,7 +106084,7 @@
               "activationDate": "2026-02-28T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 8,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1170483,
@@ -106228,7 +106236,7 @@
               "activationDate": "2024-06-14T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 29,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 939184,
@@ -107540,7 +107548,7 @@
               "activationDate": "2025-02-07T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 8,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 955958,
@@ -108244,7 +108252,7 @@
               "activationDate": "2026-01-13T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 46,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1158225,
@@ -108436,7 +108444,7 @@
               "activationDate": "2025-02-01T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 25,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1041406,
@@ -108660,7 +108668,7 @@
               "activationDate": "2024-03-01T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 16,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 910710,
@@ -108836,7 +108844,7 @@
               "activationDate": "2023-11-25T00:00:00Z",
               "ownCallsign": "MW7MWZ/P",
               "qsos": 19,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 875958,
@@ -114311,7 +114319,7 @@
               "activationDate": "2025-05-17T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 14,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1086704,
@@ -114447,7 +114455,7 @@
               "activationDate": "2024-04-23T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 10,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 928803,
@@ -114543,7 +114551,7 @@
               "activationDate": "2023-07-13T00:00:00Z",
               "ownCallsign": "MW7MWZ/P",
               "qsos": 9,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 833114,
@@ -116295,7 +116303,7 @@
               "activationDate": "2025-03-21T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 35,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1029229,
@@ -116383,7 +116391,7 @@
               "activationDate": "2024-04-08T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 13,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 924944,
@@ -116479,7 +116487,7 @@
               "activationDate": "2023-07-03T00:00:00Z",
               "ownCallsign": "MW7MWZ ",
               "qsos": 7,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 821559,
@@ -118679,7 +118687,7 @@
               "activationDate": "2025-04-26T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 6,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1028272,
@@ -120919,7 +120927,7 @@
               "activationDate": "2025-11-08T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 4,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1139698,
@@ -122191,7 +122199,7 @@
               "activationDate": "2024-06-14T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 14,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 946713,
@@ -123247,7 +123255,7 @@
               "activationDate": "2024-06-08T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 20,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1014382,
@@ -124199,7 +124207,7 @@
               "activationDate": "2025-05-16T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 9,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1075277,
@@ -124247,7 +124255,7 @@
               "activationDate": "2024-07-19T00:00:00Z",
               "ownCallsign": "MW7MWZ ",
               "qsos": 1,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 957030,
@@ -124271,7 +124279,7 @@
               "activationDate": "2024-07-13T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 9,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 906682,
@@ -130703,7 +130711,7 @@
               "activationDate": "2024-06-29T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 5,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 951214,
@@ -132437,7 +132445,7 @@
               "activationDate": "2025-05-15T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 11,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1092496,
@@ -132573,7 +132581,7 @@
               "activationDate": "2024-06-29T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 5,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 951215,
@@ -136341,7 +136349,7 @@
               "activationDate": "2024-06-29T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 6,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 951216,
@@ -138637,7 +138645,7 @@
               "activationDate": "2024-07-06T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 5,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 935121,
@@ -139805,7 +139813,7 @@
               "activationDate": "2025-02-07T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 7,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 955693,
@@ -141021,7 +141029,7 @@
               "activationDate": "2025-01-12T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 24,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 1037163,
@@ -141125,7 +141133,7 @@
               "activationDate": "2024-04-06T00:00:00Z",
               "ownCallsign": "MW7MWZ",
               "qsos": 15,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 923966,
@@ -141237,7 +141245,7 @@
               "activationDate": "2023-06-30T00:00:00Z",
               "ownCallsign": "MW7MWZ ",
               "qsos": 5,
-              "Callsign": "MW7MWZ"
+              "Callsign": "MW9MWZ"
             },
             {
               "id": 814850,
