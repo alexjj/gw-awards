@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T03:58:49Z",
+  "generated_at": "2026-04-15T03:57:26Z",
   "association": "GW",
   "regions": {
     "MW": {
@@ -1376,20 +1376,20 @@
               "Callsign": "G4OIG"
             },
             {
-              "id": 29031,
-              "userId": 787,
-              "activationDate": "2008-03-02T00:00:00Z",
-              "ownCallsign": "2W0BYA/P",
-              "qsos": 12,
-              "Callsign": "M0MYA"
-            },
-            {
               "id": 29005,
               "userId": 1159,
               "activationDate": "2008-03-02T00:00:00Z",
               "ownCallsign": "MW3SFN/P",
               "qsos": 4,
               "Callsign": "2E0BTR"
+            },
+            {
+              "id": 29031,
+              "userId": 787,
+              "activationDate": "2008-03-02T00:00:00Z",
+              "ownCallsign": "2W0BYA/P",
+              "qsos": 12,
+              "Callsign": "M0MYA"
             },
             {
               "id": 40709,
@@ -2888,14 +2888,6 @@
               "Callsign": "GW7RKC"
             },
             {
-              "id": 83618,
-              "userId": 3074,
-              "activationDate": "2012-01-21T00:00:00Z",
-              "ownCallsign": "GW6GGP/P",
-              "qsos": 52,
-              "Callsign": "G6GGP"
-            },
-            {
               "id": 83611,
               "userId": 1159,
               "activationDate": "2012-01-21T00:00:00Z",
@@ -2910,6 +2902,14 @@
               "ownCallsign": "GW8XYJ/P",
               "qsos": 7,
               "Callsign": "G8XYJ"
+            },
+            {
+              "id": 83618,
+              "userId": 3074,
+              "activationDate": "2012-01-21T00:00:00Z",
+              "ownCallsign": "GW6GGP/P",
+              "qsos": 52,
+              "Callsign": "G6GGP"
             },
             {
               "id": 86782,
@@ -2968,14 +2968,6 @@
               "Callsign": "M3ZCB"
             },
             {
-              "id": 65462,
-              "userId": 2565,
-              "activationDate": "2011-02-12T00:00:00Z",
-              "ownCallsign": "2W0XTL",
-              "qsos": 9,
-              "Callsign": "G8XYJ"
-            },
-            {
               "id": 65584,
               "userId": 1159,
               "activationDate": "2011-02-12T00:00:00Z",
@@ -2990,6 +2982,14 @@
               "ownCallsign": "MW0MYA/P",
               "qsos": 11,
               "Callsign": "M0MYA"
+            },
+            {
+              "id": 65462,
+              "userId": 2565,
+              "activationDate": "2011-02-12T00:00:00Z",
+              "ownCallsign": "2W0XTL",
+              "qsos": 9,
+              "Callsign": "G8XYJ"
             },
             {
               "id": 64926,
@@ -3256,20 +3256,20 @@
               "Callsign": "G3CWI"
             },
             {
-              "id": 15623,
-              "userId": 771,
-              "activationDate": "2006-09-16T00:00:00Z",
-              "ownCallsign": "GW4ERP/P",
-              "qsos": 21,
-              "Callsign": "G4ERP"
-            },
-            {
               "id": 16225,
               "userId": 849,
               "activationDate": "2006-09-16T00:00:00Z",
               "ownCallsign": "GW3RMD/P",
               "qsos": 17,
               "Callsign": "G3RMD"
+            },
+            {
+              "id": 15623,
+              "userId": 771,
+              "activationDate": "2006-09-16T00:00:00Z",
+              "ownCallsign": "GW4ERP/P",
+              "qsos": 21,
+              "Callsign": "G4ERP"
             },
             {
               "id": 15280,
@@ -6576,20 +6576,20 @@
               "Callsign": "anon22082801"
             },
             {
-              "id": 63023,
-              "userId": 1114,
-              "activationDate": "2010-11-21T00:00:00Z",
-              "ownCallsign": "MW3NYR",
-              "qsos": 4,
-              "Callsign": "MW3NYR"
-            },
-            {
               "id": 63020,
               "userId": 843,
               "activationDate": "2010-11-21T00:00:00Z",
               "ownCallsign": "GW8OGI",
               "qsos": 7,
               "Callsign": "GW8OGI"
+            },
+            {
+              "id": 63023,
+              "userId": 1114,
+              "activationDate": "2010-11-21T00:00:00Z",
+              "ownCallsign": "MW3NYR",
+              "qsos": 4,
+              "Callsign": "MW3NYR"
             },
             {
               "id": 61827,
@@ -12560,20 +12560,20 @@
               "Callsign": "G1JKS"
             },
             {
-              "id": 1153965,
-              "userId": 729,
-              "activationDate": "2025-12-29T00:00:00Z",
-              "ownCallsign": "MW0HGY/P",
-              "qsos": 17,
-              "Callsign": "M0HGY"
-            },
-            {
               "id": 1157465,
               "userId": 69,
               "activationDate": "2025-12-29T00:00:00Z",
               "ownCallsign": "MW1EYP/P",
               "qsos": 51,
               "Callsign": "M1EYP"
+            },
+            {
+              "id": 1153965,
+              "userId": 729,
+              "activationDate": "2025-12-29T00:00:00Z",
+              "ownCallsign": "MW0HGY/P",
+              "qsos": 17,
+              "Callsign": "M0HGY"
             },
             {
               "id": 1153605,
@@ -12696,14 +12696,6 @@
               "Callsign": "M0JLA"
             },
             {
-              "id": 1062429,
-              "userId": 16722,
-              "activationDate": "2025-02-22T00:00:00Z",
-              "ownCallsign": "MW1HAX/P",
-              "qsos": 7,
-              "Callsign": "M1HAX"
-            },
-            {
               "id": 1053153,
               "userId": 10899,
               "activationDate": "2025-02-22T00:00:00Z",
@@ -12718,6 +12710,14 @@
               "ownCallsign": "MW0KXG/P",
               "qsos": 4,
               "Callsign": "M0KXG"
+            },
+            {
+              "id": 1062429,
+              "userId": 16722,
+              "activationDate": "2025-02-22T00:00:00Z",
+              "ownCallsign": "MW1HAX/P",
+              "qsos": 7,
+              "Callsign": "M1HAX"
             },
             {
               "id": 1052035,
@@ -12752,20 +12752,20 @@
               "Callsign": "M0VFC"
             },
             {
-              "id": 1048302,
-              "userId": 50555,
-              "activationDate": "2025-02-02T00:00:00Z",
-              "ownCallsign": "MW0PJE/P",
-              "qsos": 17,
-              "Callsign": "MW0PJE"
-            },
-            {
               "id": 1045640,
               "userId": 8211,
               "activationDate": "2025-02-02T00:00:00Z",
               "ownCallsign": "GW7HEM/P",
               "qsos": 5,
               "Callsign": "G7HEM"
+            },
+            {
+              "id": 1048302,
+              "userId": 50555,
+              "activationDate": "2025-02-02T00:00:00Z",
+              "ownCallsign": "MW0PJE/P",
+              "qsos": 17,
+              "Callsign": "MW0PJE"
             },
             {
               "id": 1042170,
@@ -12928,20 +12928,20 @@
               "Callsign": "M0VFC"
             },
             {
-              "id": 931789,
-              "userId": 8731,
-              "activationDate": "2024-03-03T00:00:00Z",
-              "ownCallsign": "MW0WUT/P",
-              "qsos": 6,
-              "Callsign": "M0WUT"
-            },
-            {
               "id": 917225,
               "userId": 380,
               "activationDate": "2024-03-03T00:00:00Z",
               "ownCallsign": "MW0BLF/P",
               "qsos": 9,
               "Callsign": "M0BLF"
+            },
+            {
+              "id": 931789,
+              "userId": 8731,
+              "activationDate": "2024-03-03T00:00:00Z",
+              "ownCallsign": "MW0WUT/P",
+              "qsos": 6,
+              "Callsign": "M0WUT"
             },
             {
               "id": 916082,
@@ -13896,20 +13896,20 @@
               "Callsign": "M1CJE"
             },
             {
-              "id": 418233,
-              "userId": 3192,
-              "activationDate": "2020-02-06T00:00:00Z",
-              "ownCallsign": "MW6BWA/P",
-              "qsos": 17,
-              "Callsign": "M6BWA"
-            },
-            {
               "id": 415136,
               "userId": 2771,
               "activationDate": "2020-02-06T00:00:00Z",
               "ownCallsign": "MW0JLA/P",
               "qsos": 11,
               "Callsign": "M0JLA"
+            },
+            {
+              "id": 418233,
+              "userId": 3192,
+              "activationDate": "2020-02-06T00:00:00Z",
+              "ownCallsign": "MW6BWA/P",
+              "qsos": 17,
+              "Callsign": "M6BWA"
             },
             {
               "id": 408485,
@@ -14056,20 +14056,20 @@
               "Callsign": "M6NSV"
             },
             {
-              "id": 343773,
-              "userId": 2771,
-              "activationDate": "2019-02-27T00:00:00Z",
-              "ownCallsign": "MW0JLA/P",
-              "qsos": 14,
-              "Callsign": "M0JLA"
-            },
-            {
               "id": 347579,
               "userId": 3192,
               "activationDate": "2019-02-27T00:00:00Z",
               "ownCallsign": "MW6BWA/P",
               "qsos": 18,
               "Callsign": "M6BWA"
+            },
+            {
+              "id": 343773,
+              "userId": 2771,
+              "activationDate": "2019-02-27T00:00:00Z",
+              "ownCallsign": "MW0JLA/P",
+              "qsos": 14,
+              "Callsign": "M0JLA"
             },
             {
               "id": 342828,
@@ -14240,20 +14240,20 @@
               "Callsign": "G4HQB"
             },
             {
-              "id": 285260,
-              "userId": 3192,
-              "activationDate": "2018-02-25T00:00:00Z",
-              "ownCallsign": "MW6BWA/P",
-              "qsos": 14,
-              "Callsign": "M6BWA"
-            },
-            {
               "id": 282603,
               "userId": 2771,
               "activationDate": "2018-02-25T00:00:00Z",
               "ownCallsign": "MW0JLA/P",
               "qsos": 6,
               "Callsign": "M0JLA"
+            },
+            {
+              "id": 285260,
+              "userId": 3192,
+              "activationDate": "2018-02-25T00:00:00Z",
+              "ownCallsign": "MW6BWA/P",
+              "qsos": 14,
+              "Callsign": "M6BWA"
             },
             {
               "id": 282542,
@@ -14640,20 +14640,20 @@
               "Callsign": "M6BWA"
             },
             {
-              "id": 205369,
-              "userId": 2771,
-              "activationDate": "2016-02-14T00:00:00Z",
-              "ownCallsign": "MW0JLA/P",
-              "qsos": 8,
-              "Callsign": "M0JLA"
-            },
-            {
               "id": 205608,
               "userId": 1234,
               "activationDate": "2016-02-14T00:00:00Z",
               "ownCallsign": "GW6WRW/P",
               "qsos": 67,
               "Callsign": "G6WRW"
+            },
+            {
+              "id": 205369,
+              "userId": 2771,
+              "activationDate": "2016-02-14T00:00:00Z",
+              "ownCallsign": "MW0JLA/P",
+              "qsos": 8,
+              "Callsign": "M0JLA"
             },
             {
               "id": 205418,
@@ -14864,20 +14864,20 @@
               "Callsign": "M0HDF"
             },
             {
-              "id": 170075,
-              "userId": 2771,
-              "activationDate": "2015-02-14T00:00:00Z",
-              "ownCallsign": "MW0JLA/P",
-              "qsos": 11,
-              "Callsign": "M0JLA"
-            },
-            {
               "id": 170834,
               "userId": 3192,
               "activationDate": "2015-02-14T00:00:00Z",
               "ownCallsign": "MW6BWA/P",
               "qsos": 11,
               "Callsign": "M6BWA"
+            },
+            {
+              "id": 170075,
+              "userId": 2771,
+              "activationDate": "2015-02-14T00:00:00Z",
+              "ownCallsign": "MW0JLA/P",
+              "qsos": 11,
+              "Callsign": "M0JLA"
             },
             {
               "id": 168543,
@@ -15632,20 +15632,20 @@
               "Callsign": "M0NVJ"
             },
             {
-              "id": 67711,
-              "userId": 1114,
-              "activationDate": "2010-06-26T00:00:00Z",
-              "ownCallsign": "MW3NYR",
-              "qsos": 12,
-              "Callsign": "MW3NYR"
-            },
-            {
               "id": 56407,
               "userId": 843,
               "activationDate": "2010-06-26T00:00:00Z",
               "ownCallsign": "GW8OGI",
               "qsos": 27,
               "Callsign": "GW8OGI"
+            },
+            {
+              "id": 67711,
+              "userId": 1114,
+              "activationDate": "2010-06-26T00:00:00Z",
+              "ownCallsign": "MW3NYR",
+              "qsos": 12,
+              "Callsign": "MW3NYR"
             },
             {
               "id": 56007,
@@ -15952,20 +15952,20 @@
               "Callsign": "M0VGP"
             },
             {
-              "id": 28801,
-              "userId": 752,
-              "activationDate": "2008-02-23T00:00:00Z",
-              "ownCallsign": "2W0KPO/P",
-              "qsos": 11,
-              "Callsign": "G1SJW"
-            },
-            {
               "id": 28691,
               "userId": 1184,
               "activationDate": "2008-02-23T00:00:00Z",
               "ownCallsign": "GW0AOD/P",
               "qsos": 19,
               "Callsign": "G0AOD"
+            },
+            {
+              "id": 28801,
+              "userId": 752,
+              "activationDate": "2008-02-23T00:00:00Z",
+              "ownCallsign": "2W0KPO/P",
+              "qsos": 11,
+              "Callsign": "G1SJW"
             },
             {
               "id": 27813,
@@ -17040,20 +17040,20 @@
               "Callsign": "M1EYP"
             },
             {
-              "id": 359036,
-              "userId": 729,
-              "activationDate": "2019-06-04T00:00:00Z",
-              "ownCallsign": "MW0HGY/P",
-              "qsos": 5,
-              "Callsign": "M0HGY"
-            },
-            {
               "id": 764126,
               "userId": 69,
               "activationDate": "2019-06-04T00:00:00Z",
               "ownCallsign": "MW1EYP/P",
               "qsos": 4,
               "Callsign": "M1EYP"
+            },
+            {
+              "id": 359036,
+              "userId": 729,
+              "activationDate": "2019-06-04T00:00:00Z",
+              "ownCallsign": "MW0HGY/P",
+              "qsos": 5,
+              "Callsign": "M0HGY"
             },
             {
               "id": 356486,
@@ -17200,20 +17200,20 @@
               "Callsign": "G3TJE"
             },
             {
-              "id": 62154,
-              "userId": 787,
-              "activationDate": "2010-10-29T00:00:00Z",
-              "ownCallsign": "MW0MYA/P",
-              "qsos": 11,
-              "Callsign": "M0MYA"
-            },
-            {
               "id": 62050,
               "userId": 1159,
               "activationDate": "2010-10-29T00:00:00Z",
               "ownCallsign": "2W0BTR/P",
               "qsos": 6,
               "Callsign": "2E0BTR"
+            },
+            {
+              "id": 62154,
+              "userId": 787,
+              "activationDate": "2010-10-29T00:00:00Z",
+              "ownCallsign": "MW0MYA/P",
+              "qsos": 11,
+              "Callsign": "M0MYA"
             },
             {
               "id": 61108,
@@ -17624,20 +17624,20 @@
               "Callsign": "GW6OVD"
             },
             {
-              "id": 123847,
-              "userId": 3192,
-              "activationDate": "2013-08-10T00:00:00Z",
-              "ownCallsign": "MW6BWA/P",
-              "qsos": 9,
-              "Callsign": "M6BWA"
-            },
-            {
               "id": 123486,
               "userId": 2771,
               "activationDate": "2013-08-10T00:00:00Z",
               "ownCallsign": "MW0JLA/P",
               "qsos": 19,
               "Callsign": "M0JLA"
+            },
+            {
+              "id": 123847,
+              "userId": 3192,
+              "activationDate": "2013-08-10T00:00:00Z",
+              "ownCallsign": "MW6BWA/P",
+              "qsos": 9,
+              "Callsign": "M6BWA"
             },
             {
               "id": 88009,
@@ -20168,20 +20168,20 @@
               "Callsign": "MW0KXN"
             },
             {
-              "id": 789402,
-              "userId": 2771,
-              "activationDate": "2023-04-26T00:00:00Z",
-              "ownCallsign": "MW0JLA/P",
-              "qsos": 13,
-              "Callsign": "M0JLA"
-            },
-            {
               "id": 868000,
               "userId": 3192,
               "activationDate": "2023-04-26T00:00:00Z",
               "ownCallsign": "MW6BWA/P",
               "qsos": 2,
               "Callsign": "M6BWA"
+            },
+            {
+              "id": 789402,
+              "userId": 2771,
+              "activationDate": "2023-04-26T00:00:00Z",
+              "ownCallsign": "MW0JLA/P",
+              "qsos": 13,
+              "Callsign": "M0JLA"
             },
             {
               "id": 783409,
@@ -20200,20 +20200,20 @@
               "Callsign": "M0RWX"
             },
             {
-              "id": 687529,
-              "userId": 2771,
-              "activationDate": "2022-09-03T00:00:00Z",
-              "ownCallsign": "MW0JLA/P",
-              "qsos": 9,
-              "Callsign": "M0JLA"
-            },
-            {
               "id": 714458,
               "userId": 3192,
               "activationDate": "2022-09-03T00:00:00Z",
               "ownCallsign": "MW6BWA/P",
               "qsos": 9,
               "Callsign": "M6BWA"
+            },
+            {
+              "id": 687529,
+              "userId": 2771,
+              "activationDate": "2022-09-03T00:00:00Z",
+              "ownCallsign": "MW0JLA/P",
+              "qsos": 9,
+              "Callsign": "M0JLA"
             },
             {
               "id": 662822,
@@ -20576,20 +20576,20 @@
               "Callsign": "M0PYG"
             },
             {
-              "id": 88197,
-              "userId": 159,
-              "activationDate": "2012-04-11T00:00:00Z",
-              "ownCallsign": "GW4BVE/P",
-              "qsos": 32,
-              "Callsign": "GW4BVE"
-            },
-            {
               "id": 88008,
               "userId": 1234,
               "activationDate": "2012-04-11T00:00:00Z",
               "ownCallsign": "GW6WRW/P",
               "qsos": 33,
               "Callsign": "G6WRW"
+            },
+            {
+              "id": 88197,
+              "userId": 159,
+              "activationDate": "2012-04-11T00:00:00Z",
+              "ownCallsign": "GW4BVE/P",
+              "qsos": 32,
+              "Callsign": "GW4BVE"
             },
             {
               "id": 81988,
@@ -24812,6 +24812,14 @@
               "Callsign": "G3NYY"
             },
             {
+              "id": 62922,
+              "userId": 2787,
+              "activationDate": "2010-11-13T00:00:00Z",
+              "ownCallsign": "2W0TDX/P",
+              "qsos": 4,
+              "Callsign": "2E0TDX"
+            },
+            {
               "id": 62926,
               "userId": 2784,
               "activationDate": "2010-11-13T00:00:00Z",
@@ -24826,14 +24834,6 @@
               "ownCallsign": "2W0BTR/P",
               "qsos": 7,
               "Callsign": "2E0BTR"
-            },
-            {
-              "id": 62922,
-              "userId": 2787,
-              "activationDate": "2010-11-13T00:00:00Z",
-              "ownCallsign": "2W0TDX/P",
-              "qsos": 4,
-              "Callsign": "2E0TDX"
             },
             {
               "id": 62758,
@@ -26004,20 +26004,20 @@
               "Callsign": "M3TMX"
             },
             {
-              "id": 48848,
-              "userId": 159,
-              "activationDate": "2009-07-14T00:00:00Z",
-              "ownCallsign": "GW4BVE/P",
-              "qsos": 11,
-              "Callsign": "GW4BVE"
-            },
-            {
               "id": 45099,
               "userId": 854,
               "activationDate": "2009-07-14T00:00:00Z",
               "ownCallsign": "GW4OIG/P",
               "qsos": 14,
               "Callsign": "G4OIG"
+            },
+            {
+              "id": 48848,
+              "userId": 159,
+              "activationDate": "2009-07-14T00:00:00Z",
+              "ownCallsign": "GW4BVE/P",
+              "qsos": 11,
+              "Callsign": "GW4BVE"
             },
             {
               "id": 48862,
@@ -26276,20 +26276,20 @@
               "Callsign": "M1EYP"
             },
             {
-              "id": 1189,
-              "userId": 78,
-              "activationDate": "2003-04-19T00:00:00Z",
-              "ownCallsign": "MW0YLS",
-              "qsos": 7,
-              "Callsign": "MW0YLS"
-            },
-            {
               "id": 2364,
               "userId": 159,
               "activationDate": "2003-04-19T00:00:00Z",
               "ownCallsign": "GW4BVE/P",
               "qsos": 7,
               "Callsign": "GW4BVE"
+            },
+            {
+              "id": 1189,
+              "userId": 78,
+              "activationDate": "2003-04-19T00:00:00Z",
+              "ownCallsign": "MW0YLS",
+              "qsos": 7,
+              "Callsign": "MW0YLS"
             },
             {
               "id": 1576,
@@ -28044,20 +28044,20 @@
               "Callsign": "G6DTN"
             },
             {
-              "id": 108555,
-              "userId": 2834,
-              "activationDate": "2012-08-31T00:00:00Z",
-              "ownCallsign": "2O0YYY/P",
-              "qsos": 84,
-              "Callsign": "2E0YYY"
-            },
-            {
               "id": 97846,
               "userId": 2565,
               "activationDate": "2012-08-31T00:00:00Z",
               "ownCallsign": "GW8XYJ",
               "qsos": 12,
               "Callsign": "G8XYJ"
+            },
+            {
+              "id": 108555,
+              "userId": 2834,
+              "activationDate": "2012-08-31T00:00:00Z",
+              "ownCallsign": "2O0YYY/P",
+              "qsos": 84,
+              "Callsign": "2E0YYY"
             },
             {
               "id": 92879,
@@ -33961,20 +33961,20 @@
               "Callsign": "2I0ENR"
             },
             {
-              "id": 804936,
-              "userId": 10982,
-              "activationDate": "2023-05-17T00:00:00Z",
-              "ownCallsign": "GR0MHF/P",
-              "qsos": 13,
-              "Callsign": "G0MHF"
-            },
-            {
               "id": 804740,
               "userId": 10913,
               "activationDate": "2023-05-17T00:00:00Z",
               "ownCallsign": "MW6KIO",
               "qsos": 13,
               "Callsign": "2E0KIO"
+            },
+            {
+              "id": 804936,
+              "userId": 10982,
+              "activationDate": "2023-05-17T00:00:00Z",
+              "ownCallsign": "GR0MHF/P",
+              "qsos": 13,
+              "Callsign": "G0MHF"
             },
             {
               "id": 800214,
@@ -34385,20 +34385,20 @@
               "Callsign": "Mw0ucl"
             },
             {
-              "id": 553649,
-              "userId": 50694,
-              "activationDate": "2021-07-26T00:00:00Z",
-              "ownCallsign": "MW7DTE/P",
-              "qsos": 5,
-              "Callsign": "M7DTE"
-            },
-            {
               "id": 597957,
               "userId": 56510,
               "activationDate": "2021-07-26T00:00:00Z",
               "ownCallsign": "MW0SRR/P",
               "qsos": 9,
               "Callsign": "mi0srr"
+            },
+            {
+              "id": 553649,
+              "userId": 50694,
+              "activationDate": "2021-07-26T00:00:00Z",
+              "ownCallsign": "MW7DTE/P",
+              "qsos": 5,
+              "Callsign": "M7DTE"
             },
             {
               "id": 549999,
@@ -34593,14 +34593,6 @@
               "Callsign": "G7KSE"
             },
             {
-              "id": 379632,
-              "userId": 3853,
-              "activationDate": "2019-07-30T00:00:00Z",
-              "ownCallsign": "MW/SQ9MDF/P",
-              "qsos": 23,
-              "Callsign": "SQ9MDF"
-            },
-            {
               "id": 384849,
               "userId": 4497,
               "activationDate": "2019-07-30T00:00:00Z",
@@ -34609,12 +34601,12 @@
               "Callsign": "SQ9NOT"
             },
             {
-              "id": 382783,
-              "userId": 3504,
-              "activationDate": "2019-07-16T00:00:00Z",
-              "ownCallsign": "MW0WML/P",
-              "qsos": 8,
-              "Callsign": "MW0WML"
+              "id": 379632,
+              "userId": 3853,
+              "activationDate": "2019-07-30T00:00:00Z",
+              "ownCallsign": "MW/SQ9MDF/P",
+              "qsos": 23,
+              "Callsign": "SQ9MDF"
             },
             {
               "id": 369678,
@@ -34623,6 +34615,14 @@
               "ownCallsign": "GW8NZN/P",
               "qsos": 18,
               "Callsign": "GW8NZN"
+            },
+            {
+              "id": 382783,
+              "userId": 3504,
+              "activationDate": "2019-07-16T00:00:00Z",
+              "ownCallsign": "MW0WML/P",
+              "qsos": 8,
+              "Callsign": "MW0WML"
             },
             {
               "id": 367853,
@@ -36537,20 +36537,20 @@
               "Callsign": "M0WTF"
             },
             {
-              "id": 32648,
-              "userId": 69,
-              "activationDate": "2008-06-21T00:00:00Z",
-              "ownCallsign": "MW1EYP/P",
-              "qsos": 5,
-              "Callsign": "M1EYP"
-            },
-            {
               "id": 33604,
               "userId": 729,
               "activationDate": "2008-06-21T00:00:00Z",
               "ownCallsign": "MW3EYP/P",
               "qsos": 12,
               "Callsign": "M0HGY"
+            },
+            {
+              "id": 32648,
+              "userId": 69,
+              "activationDate": "2008-06-21T00:00:00Z",
+              "ownCallsign": "MW1EYP/P",
+              "qsos": 5,
+              "Callsign": "M1EYP"
             },
             {
               "id": 32132,
@@ -37217,20 +37217,20 @@
               "Callsign": "2W0UPT"
             },
             {
-              "id": 4025,
-              "userId": 133,
-              "activationDate": "2004-07-17T00:00:00Z",
-              "ownCallsign": "GW4FAL/P",
-              "qsos": 11,
-              "Callsign": "G4FAL"
-            },
-            {
               "id": 4005,
               "userId": 62,
               "activationDate": "2004-07-17T00:00:00Z",
               "ownCallsign": "M1EYO",
               "qsos": 15,
               "Callsign": "M1EYO"
+            },
+            {
+              "id": 4025,
+              "userId": 133,
+              "activationDate": "2004-07-17T00:00:00Z",
+              "ownCallsign": "GW4FAL/P",
+              "qsos": 11,
+              "Callsign": "G4FAL"
             },
             {
               "id": 3990,
@@ -40681,20 +40681,20 @@
               "Callsign": "GW4BVE"
             },
             {
-              "id": 13827,
-              "userId": 795,
-              "activationDate": "2006-06-13T00:00:00Z",
-              "ownCallsign": "GW7KXV/P",
-              "qsos": 16,
-              "Callsign": "G7KXV"
-            },
-            {
               "id": 17360,
               "userId": 1097,
               "activationDate": "2006-06-13T00:00:00Z",
               "ownCallsign": "GW7KXV/P",
               "qsos": 16,
               "Callsign": "GW7KXV"
+            },
+            {
+              "id": 13827,
+              "userId": 795,
+              "activationDate": "2006-06-13T00:00:00Z",
+              "ownCallsign": "GW7KXV/P",
+              "qsos": 16,
+              "Callsign": "G7KXV"
             },
             {
               "id": 13139,
@@ -47097,20 +47097,20 @@
               "Callsign": "G0PZO"
             },
             {
-              "id": 19195,
-              "userId": 849,
-              "activationDate": "2007-03-31T00:00:00Z",
-              "ownCallsign": "GW3RMD/P",
-              "qsos": 27,
-              "Callsign": "G3RMD"
-            },
-            {
               "id": 19103,
               "userId": 771,
               "activationDate": "2007-03-31T00:00:00Z",
               "ownCallsign": "GW4ERP/P",
               "qsos": 17,
               "Callsign": "G4ERP"
+            },
+            {
+              "id": 19195,
+              "userId": 849,
+              "activationDate": "2007-03-31T00:00:00Z",
+              "ownCallsign": "GW3RMD/P",
+              "qsos": 27,
+              "Callsign": "G3RMD"
             },
             {
               "id": 18574,
@@ -53737,20 +53737,20 @@
               "Callsign": "2W0UPT"
             },
             {
-              "id": 6181,
-              "userId": 53,
-              "activationDate": "2005-02-26T00:00:00Z",
-              "ownCallsign": "MW0IDX",
-              "qsos": 11,
-              "Callsign": "MW0IDX"
-            },
-            {
               "id": 6166,
               "userId": 280,
               "activationDate": "2005-02-26T00:00:00Z",
               "ownCallsign": "GW0VMW",
               "qsos": 9,
               "Callsign": "GW0VMW"
+            },
+            {
+              "id": 6181,
+              "userId": 53,
+              "activationDate": "2005-02-26T00:00:00Z",
+              "ownCallsign": "MW0IDX",
+              "qsos": 11,
+              "Callsign": "MW0IDX"
             },
             {
               "id": 4761,
@@ -53894,9 +53894,9 @@
             "points": 8,
             "altM": 832,
             "altFt": 2730,
-            "activationCount": 302,
-            "activationCall": "M7IGM",
-            "activationDate": "2026-03-31T00:00:00Z",
+            "activationCount": 303,
+            "activationCall": "MW0PDV/P",
+            "activationDate": "2026-04-14T00:00:00Z",
             "gridRef1": "SJ 071323",
             "gridRef2": "",
             "locator": "IO82hv",
@@ -53912,6 +53912,14 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1183323,
+              "userId": 6896,
+              "activationDate": "2026-04-14T00:00:00Z",
+              "ownCallsign": "MW0PDV/P",
+              "qsos": 16,
+              "Callsign": "MW0PDV"
+            },
             {
               "id": 1179991,
               "userId": 102228,
@@ -60052,20 +60060,20 @@
               "Callsign": "G0WPO"
             },
             {
-              "id": 224886,
-              "userId": 69,
-              "activationDate": "2016-08-09T00:00:00Z",
-              "ownCallsign": "MW1EYP/P",
-              "qsos": 4,
-              "Callsign": "M1EYP"
-            },
-            {
               "id": 223046,
               "userId": 729,
               "activationDate": "2016-08-09T00:00:00Z",
               "ownCallsign": "MW0HGY/P",
               "qsos": 4,
               "Callsign": "M0HGY"
+            },
+            {
+              "id": 224886,
+              "userId": 69,
+              "activationDate": "2016-08-09T00:00:00Z",
+              "ownCallsign": "MW1EYP/P",
+              "qsos": 4,
+              "Callsign": "M1EYP"
             },
             {
               "id": 219475,
@@ -65220,20 +65228,20 @@
               "Callsign": "M0IML"
             },
             {
-              "id": 69906,
-              "userId": 1234,
-              "activationDate": "2011-05-01T00:00:00Z",
-              "ownCallsign": "GR6WRW/P",
-              "qsos": 35,
-              "Callsign": "G6WRW"
-            },
-            {
               "id": 78817,
               "userId": 159,
               "activationDate": "2011-05-01T00:00:00Z",
               "ownCallsign": "GW4BVE/P",
               "qsos": 25,
               "Callsign": "GW4BVE"
+            },
+            {
+              "id": 69906,
+              "userId": 1234,
+              "activationDate": "2011-05-01T00:00:00Z",
+              "ownCallsign": "GR6WRW/P",
+              "qsos": 35,
+              "Callsign": "G6WRW"
             },
             {
               "id": 64341,
@@ -70543,20 +70551,20 @@
               "Callsign": "M0IML"
             },
             {
-              "id": 65632,
-              "userId": 1114,
-              "activationDate": "2010-12-13T00:00:00Z",
-              "ownCallsign": "MW3NYR",
-              "qsos": 8,
-              "Callsign": "MW3NYR"
-            },
-            {
               "id": 63320,
               "userId": 843,
               "activationDate": "2010-12-13T00:00:00Z",
               "ownCallsign": "GW8OGI",
               "qsos": 20,
               "Callsign": "GW8OGI"
+            },
+            {
+              "id": 65632,
+              "userId": 1114,
+              "activationDate": "2010-12-13T00:00:00Z",
+              "ownCallsign": "MW3NYR",
+              "qsos": 8,
+              "Callsign": "MW3NYR"
             },
             {
               "id": 55246,
@@ -91423,14 +91431,6 @@
               "Callsign": "M1RTB"
             },
             {
-              "id": 1057346,
-              "userId": 1845,
-              "activationDate": "2025-03-10T00:00:00Z",
-              "ownCallsign": "GW4AZS/P",
-              "qsos": 21,
-              "Callsign": "G4AZS"
-            },
-            {
               "id": 1064831,
               "userId": 116,
               "activationDate": "2025-03-10T00:00:00Z",
@@ -91445,6 +91445,14 @@
               "ownCallsign": "MW3ZCB/P",
               "qsos": 27,
               "Callsign": "M3ZCB"
+            },
+            {
+              "id": 1057346,
+              "userId": 1845,
+              "activationDate": "2025-03-10T00:00:00Z",
+              "ownCallsign": "GW4AZS/P",
+              "qsos": 21,
+              "Callsign": "G4AZS"
             },
             {
               "id": 1055848,
@@ -91487,6 +91495,14 @@
               "Callsign": "MW0PDV"
             },
             {
+              "id": 1043439,
+              "userId": 50555,
+              "activationDate": "2025-01-25T00:00:00Z",
+              "ownCallsign": "MW0PJE/P",
+              "qsos": 20,
+              "Callsign": "MW0PJE"
+            },
+            {
               "id": 1043756,
               "userId": 47116,
               "activationDate": "2025-01-25T00:00:00Z",
@@ -91501,14 +91517,6 @@
               "ownCallsign": "GW7WKX/P",
               "qsos": 11,
               "Callsign": "G7WKX"
-            },
-            {
-              "id": 1043439,
-              "userId": 50555,
-              "activationDate": "2025-01-25T00:00:00Z",
-              "ownCallsign": "MW0PJE/P",
-              "qsos": 20,
-              "Callsign": "MW0PJE"
             },
             {
               "id": 1041758,
@@ -92375,20 +92383,20 @@
               "Callsign": "G7WKX"
             },
             {
-              "id": 759065,
-              "userId": 69,
-              "activationDate": "2023-02-18T00:00:00Z",
-              "ownCallsign": "MW1EYP/P",
-              "qsos": 6,
-              "Callsign": "M1EYP"
-            },
-            {
               "id": 755788,
               "userId": 47116,
               "activationDate": "2023-02-18T00:00:00Z",
               "ownCallsign": "MW7NDC/P",
               "qsos": 6,
               "Callsign": "M5NIC"
+            },
+            {
+              "id": 759065,
+              "userId": 69,
+              "activationDate": "2023-02-18T00:00:00Z",
+              "ownCallsign": "MW1EYP/P",
+              "qsos": 6,
+              "Callsign": "M1EYP"
             },
             {
               "id": 752886,
@@ -93407,20 +93415,20 @@
               "Callsign": "MW0IDX"
             },
             {
-              "id": 403898,
-              "userId": 2771,
-              "activationDate": "2019-12-29T00:00:00Z",
-              "ownCallsign": "MW0JLA/P",
-              "qsos": 16,
-              "Callsign": "M0JLA"
-            },
-            {
               "id": 405112,
               "userId": 3192,
               "activationDate": "2019-12-29T00:00:00Z",
               "ownCallsign": "MW6BWA/P",
               "qsos": 19,
               "Callsign": "M6BWA"
+            },
+            {
+              "id": 403898,
+              "userId": 2771,
+              "activationDate": "2019-12-29T00:00:00Z",
+              "ownCallsign": "MW0JLA/P",
+              "qsos": 16,
+              "Callsign": "M0JLA"
             },
             {
               "id": 403097,
@@ -93447,20 +93455,20 @@
               "Callsign": "G4TQE"
             },
             {
-              "id": 400019,
-              "userId": 2833,
-              "activationDate": "2019-12-03T00:00:00Z",
-              "ownCallsign": "GW4OOE/P",
-              "qsos": 6,
-              "Callsign": "G4OOE"
-            },
-            {
               "id": 400913,
               "userId": 5493,
               "activationDate": "2019-12-03T00:00:00Z",
               "ownCallsign": "MW0PYG/P",
               "qsos": 5,
               "Callsign": "M0PYG"
+            },
+            {
+              "id": 400019,
+              "userId": 2833,
+              "activationDate": "2019-12-03T00:00:00Z",
+              "ownCallsign": "GW4OOE/P",
+              "qsos": 6,
+              "Callsign": "G4OOE"
             },
             {
               "id": 399931,
@@ -94335,20 +94343,20 @@
               "Callsign": "MW0IDX"
             },
             {
-              "id": 176128,
-              "userId": 69,
-              "activationDate": "2015-02-20T00:00:00Z",
-              "ownCallsign": "MW1EYP/P",
-              "qsos": 28,
-              "Callsign": "M1EYP"
-            },
-            {
               "id": 170703,
               "userId": 3235,
               "activationDate": "2015-02-20T00:00:00Z",
               "ownCallsign": "GW0HRT/P",
               "qsos": 14,
               "Callsign": "G0HRT"
+            },
+            {
+              "id": 176128,
+              "userId": 69,
+              "activationDate": "2015-02-20T00:00:00Z",
+              "ownCallsign": "MW1EYP/P",
+              "qsos": 28,
+              "Callsign": "M1EYP"
             },
             {
               "id": 170409,
@@ -94887,20 +94895,20 @@
               "Callsign": "G1FOA"
             },
             {
-              "id": 85938,
-              "userId": 1059,
-              "activationDate": "2012-02-29T00:00:00Z",
-              "ownCallsign": "GW4ZRP/P",
-              "qsos": 10,
-              "Callsign": "G4ZRP"
-            },
-            {
               "id": 87410,
               "userId": 2670,
               "activationDate": "2012-02-29T00:00:00Z",
               "ownCallsign": "GW6ODU/P",
               "qsos": 10,
               "Callsign": "G6ODU"
+            },
+            {
+              "id": 85938,
+              "userId": 1059,
+              "activationDate": "2012-02-29T00:00:00Z",
+              "ownCallsign": "GW4ZRP/P",
+              "qsos": 10,
+              "Callsign": "G4ZRP"
             },
             {
               "id": 84918,
@@ -94919,20 +94927,20 @@
               "Callsign": "M0IML"
             },
             {
-              "id": 82716,
-              "userId": 729,
-              "activationDate": "2012-01-02T00:00:00Z",
-              "ownCallsign": "MW3EYP/P",
-              "qsos": 9,
-              "Callsign": "M0HGY"
-            },
-            {
               "id": 84875,
               "userId": 69,
               "activationDate": "2012-01-02T00:00:00Z",
               "ownCallsign": "MW1EYP/P",
               "qsos": 5,
               "Callsign": "M1EYP"
+            },
+            {
+              "id": 82716,
+              "userId": 729,
+              "activationDate": "2012-01-02T00:00:00Z",
+              "ownCallsign": "MW3EYP/P",
+              "qsos": 9,
+              "Callsign": "M0HGY"
             },
             {
               "id": 82542,
@@ -132743,9 +132751,9 @@
             "points": 1,
             "altM": 207,
             "altFt": 679,
-            "activationCount": 487,
-            "activationCall": "MW/EI2IAB/P",
-            "activationDate": "2026-04-09T00:00:00Z",
+            "activationCount": 488,
+            "activationCall": "2W0JWA/P",
+            "activationDate": "2026-04-14T00:00:00Z",
             "gridRef1": "SH 767833",
             "gridRef2": "",
             "locator": "IO83bh",
@@ -132799,6 +132807,14 @@
             "tagCount": 4
           },
           "activations": [
+            {
+              "id": 1183332,
+              "userId": 7013,
+              "activationDate": "2026-04-14T00:00:00Z",
+              "ownCallsign": "2W0JWA/P",
+              "qsos": 8,
+              "Callsign": "2E0JWA"
+            },
             {
               "id": 1182171,
               "userId": 38202,
@@ -138872,6 +138888,14 @@
               "Callsign": "G0HIO"
             },
             {
+              "id": 314884,
+              "userId": 980,
+              "activationDate": "2013-05-28T00:00:00Z",
+              "ownCallsign": "GW0PEB/P",
+              "qsos": 41,
+              "Callsign": "G0PEB"
+            },
+            {
               "id": 114333,
               "userId": 3114,
               "activationDate": "2013-05-28T00:00:00Z",
@@ -138886,14 +138910,6 @@
               "ownCallsign": "2W0XYL/P",
               "qsos": 31,
               "Callsign": "2E0XYL"
-            },
-            {
-              "id": 314884,
-              "userId": 980,
-              "activationDate": "2013-05-28T00:00:00Z",
-              "ownCallsign": "GW0PEB/P",
-              "qsos": 41,
-              "Callsign": "G0PEB"
             },
             {
               "id": 89833,
@@ -167025,20 +167041,20 @@
               "Callsign": "M0VCM"
             },
             {
-              "id": 965831,
-              "userId": 94617,
-              "activationDate": "2024-06-15T00:00:00Z",
-              "ownCallsign": "GW5OLD/P",
-              "qsos": 12,
-              "Callsign": "G5OLD"
-            },
-            {
               "id": 950182,
               "userId": 78065,
               "activationDate": "2024-06-15T00:00:00Z",
               "ownCallsign": "MW0KAX/P",
               "qsos": 7,
               "Callsign": "GW4MAT"
+            },
+            {
+              "id": 965831,
+              "userId": 94617,
+              "activationDate": "2024-06-15T00:00:00Z",
+              "ownCallsign": "GW5OLD/P",
+              "qsos": 12,
+              "Callsign": "G5OLD"
             },
             {
               "id": 944992,
@@ -167185,6 +167201,14 @@
               "Callsign": "M1CJE"
             },
             {
+              "id": 871922,
+              "userId": 49271,
+              "activationDate": "2023-11-08T00:00:00Z",
+              "ownCallsign": "GW4BML/P",
+              "qsos": 9,
+              "Callsign": "GW4BML"
+            },
+            {
               "id": 872011,
               "userId": 78065,
               "activationDate": "2023-11-08T00:00:00Z",
@@ -167199,14 +167223,6 @@
               "ownCallsign": "MW0KXN/P",
               "qsos": 15,
               "Callsign": "MW0KXN"
-            },
-            {
-              "id": 871922,
-              "userId": 49271,
-              "activationDate": "2023-11-08T00:00:00Z",
-              "ownCallsign": "GW4BML/P",
-              "qsos": 9,
-              "Callsign": "GW4BML"
             },
             {
               "id": 857584,
