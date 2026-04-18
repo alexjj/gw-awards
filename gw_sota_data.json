@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T04:09:38Z",
+  "generated_at": "2026-04-18T03:45:46Z",
   "association": "GW",
   "regions": {
     "MW": {
@@ -17160,20 +17160,20 @@
               "Callsign": "MW6GWR"
             },
             {
-              "id": 143116,
-              "userId": 892,
-              "activationDate": "2014-03-31T00:00:00Z",
-              "ownCallsign": "MW3ZCB/P",
-              "qsos": 17,
-              "Callsign": "M3ZCB"
-            },
-            {
               "id": 143130,
               "userId": 116,
               "activationDate": "2014-03-31T00:00:00Z",
               "ownCallsign": "MW1MAJ/P",
               "qsos": 14,
               "Callsign": "M1MAJ"
+            },
+            {
+              "id": 143116,
+              "userId": 892,
+              "activationDate": "2014-03-31T00:00:00Z",
+              "ownCallsign": "MW3ZCB/P",
+              "qsos": 17,
+              "Callsign": "M3ZCB"
             },
             {
               "id": 690827,
