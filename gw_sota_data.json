@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T04:22:26Z",
+  "generated_at": "2026-07-27T04:32:39Z",
   "association": "GW",
   "regions": {
     "MW": {
@@ -124916,9 +124916,9 @@
             "points": 1,
             "altM": 341,
             "altFt": 1119,
-            "activationCount": 152,
-            "activationCall": "MW0WML/P",
-            "activationDate": "2026-07-12T00:00:00Z",
+            "activationCount": 154,
+            "activationCall": "GW4TQE/P",
+            "activationDate": "2026-07-22T00:00:00Z",
             "gridRef1": "SJ 174260",
             "gridRef2": "",
             "locator": "IO82jt",
@@ -124934,6 +124934,22 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1222148,
+              "userId": 7658,
+              "activationDate": "2026-07-22T00:00:00Z",
+              "ownCallsign": "GW4TQE/P",
+              "qsos": 25,
+              "Callsign": "G4TQE"
+            },
+            {
+              "id": 1222241,
+              "userId": 49271,
+              "activationDate": "2026-07-19T00:00:00Z",
+              "ownCallsign": "GW4BML/P",
+              "qsos": 14,
+              "Callsign": "GW4BML"
+            },
             {
               "id": 1212297,
               "userId": 3504,
@@ -194093,8 +194109,8 @@
             "points": 1,
             "altM": 309,
             "altFt": 1014,
-            "activationCount": 156,
-            "activationCall": "MW9WJS",
+            "activationCount": 157,
+            "activationCall": "MW8MQD",
             "activationDate": "2026-07-23T00:00:00Z",
             "gridRef1": "ST 411943",
             "gridRef2": "",
@@ -194118,6 +194134,14 @@
               "ownCallsign": "MW9WJS",
               "qsos": 7,
               "Callsign": "MW9WJS"
+            },
+            {
+              "id": 1222348,
+              "userId": 102659,
+              "activationDate": "2026-07-23T00:00:00Z",
+              "ownCallsign": "MW8MQD",
+              "qsos": 14,
+              "Callsign": "MW8MQD"
             },
             {
               "id": 1206495,
