@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T03:21:28Z",
+  "generated_at": "2026-08-15T02:10:40Z",
   "association": "GW",
   "regions": {
     "MW": {
@@ -23741,9 +23741,9 @@
             "points": 1,
             "altM": 408,
             "altFt": 1339,
-            "activationCount": 241,
-            "activationCall": "GW4TCU/P",
-            "activationDate": "2026-08-08T00:00:00Z",
+            "activationCount": 242,
+            "activationCall": "GW4HQB/P",
+            "activationDate": "2026-08-14T00:00:00Z",
             "gridRef1": "SJ 264058",
             "gridRef2": "",
             "locator": "IO82kp",
@@ -23779,6 +23779,14 @@
             "tagCount": 2
           },
           "activations": [
+            {
+              "id": 1235849,
+              "userId": 11851,
+              "activationDate": "2026-08-14T00:00:00Z",
+              "ownCallsign": "GW4HQB/P",
+              "qsos": 5,
+              "Callsign": "G4HQB"
+            },
             {
               "id": 1229872,
               "userId": 3500,
@@ -93225,9 +93233,9 @@
             "points": 2,
             "altM": 565,
             "altFt": 1852,
-            "activationCount": 693,
-            "activationCall": "MW0PJE/P",
-            "activationDate": "2026-08-09T00:00:00Z",
+            "activationCount": 695,
+            "activationCall": "GW0MHF/P",
+            "activationDate": "2026-08-13T00:00:00Z",
             "gridRef1": "SJ 208488",
             "gridRef2": "",
             "locator": "IO83ja",
@@ -93243,6 +93251,22 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1235760,
+              "userId": 10982,
+              "activationDate": "2026-08-13T00:00:00Z",
+              "ownCallsign": "GW0MHF/P",
+              "qsos": 12,
+              "Callsign": "G0MHF"
+            },
+            {
+              "id": 1235920,
+              "userId": 50555,
+              "activationDate": "2026-08-12T00:00:00Z",
+              "ownCallsign": "MW0PJE/P",
+              "qsos": 24,
+              "Callsign": "MW0PJE"
+            },
             {
               "id": 1230100,
               "userId": 50555,
