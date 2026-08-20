@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T02:15:49Z",
+  "generated_at": "2026-08-20T02:14:07Z",
   "association": "GW",
   "regions": {
     "MW": {
@@ -4397,9 +4397,9 @@
             "points": 4,
             "altM": 611,
             "altFt": 2005,
-            "activationCount": 120,
-            "activationCall": "MW0VFC/P",
-            "activationDate": "2026-07-18T00:00:00Z",
+            "activationCount": 121,
+            "activationCall": "MW0JSB/P",
+            "activationDate": "2026-08-19T00:00:00Z",
             "gridRef1": "SN 798771",
             "gridRef2": "",
             "locator": "IO82cj",
@@ -4415,6 +4415,14 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1241086,
+              "userId": 46487,
+              "activationDate": "2026-08-19T00:00:00Z",
+              "ownCallsign": "MW0JSB/P",
+              "qsos": 14,
+              "Callsign": "M0JSB"
+            },
             {
               "id": 1218757,
               "userId": 1507,
@@ -5389,9 +5397,9 @@
             "points": 2,
             "altM": 594,
             "altFt": 1949,
-            "activationCount": 63,
-            "activationCall": "GW4ZHI/P",
-            "activationDate": "2026-08-01T00:00:00Z",
+            "activationCount": 64,
+            "activationCall": "MW0JSB/P",
+            "activationDate": "2026-08-19T00:00:00Z",
             "gridRef1": "SN 790704",
             "gridRef2": "",
             "locator": "IO82ch",
@@ -5407,6 +5415,14 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1241087,
+              "userId": 46487,
+              "activationDate": "2026-08-19T00:00:00Z",
+              "ownCallsign": "MW0JSB/P",
+              "qsos": 23,
+              "Callsign": "M0JSB"
+            },
             {
               "id": 1224885,
               "userId": 2417,
@@ -49974,9 +49990,9 @@
             "points": 8,
             "altM": 893,
             "altFt": 2929,
-            "activationCount": 198,
-            "activationCall": "MW9OUD",
-            "activationDate": "2026-07-14T00:00:00Z",
+            "activationCount": 199,
+            "activationCall": "MW9KRS/P",
+            "activationDate": "2026-08-18T00:00:00Z",
             "gridRef1": "SH 711130",
             "gridRef2": "",
             "locator": "IO82bq",
@@ -49992,6 +50008,14 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1240844,
+              "userId": 104836,
+              "activationDate": "2026-08-18T00:00:00Z",
+              "ownCallsign": "MW9KRS/P",
+              "qsos": 12,
+              "Callsign": "MW9KRS"
+            },
             {
               "id": 1214206,
               "userId": 100819,
@@ -168197,9 +168221,9 @@
             "points": 4,
             "altM": 609,
             "altFt": 1998,
-            "activationCount": 341,
-            "activationCall": "GW2HFR/P",
-            "activationDate": "2026-07-30T00:00:00Z",
+            "activationCount": 342,
+            "activationCall": "MW9KRS/P",
+            "activationDate": "2026-08-18T00:00:00Z",
             "gridRef1": "SO 165292",
             "gridRef2": "",
             "locator": "IO81jw",
