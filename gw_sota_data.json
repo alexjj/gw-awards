@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T12:26:37Z",
+  "generated_at": "2026-08-29T07:35:35Z",
   "association": "GW",
   "regions": {
     "MW": {
@@ -98942,7 +98942,7 @@
           },
           "activations": [
             {
-              "id": 1265657,
+              "id": 1265732,
               "userId": 52283,
               "activationDate": "2026-08-28T00:00:00Z",
               "ownCallsign": "MW7DBF/P",
