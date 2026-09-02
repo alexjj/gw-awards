@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T05:58:37Z",
+  "generated_at": "2026-09-02T05:21:37Z",
   "association": "GW",
   "regions": {
     "MW": {
@@ -42846,7 +42846,7 @@
               "activationDate": "2019-05-27T00:00:00Z",
               "ownCallsign": "GW0WCZ/P",
               "qsos": 4,
-              "Callsign": "G0WCZ"
+              "Callsign": "G5RAE"
             },
             {
               "id": 357096,
@@ -137436,7 +137436,7 @@
               "activationDate": "2019-05-28T00:00:00Z",
               "ownCallsign": "GW0WCZ/P",
               "qsos": 6,
-              "Callsign": "G0WCZ"
+              "Callsign": "G5RAE"
             },
             {
               "id": 357141,
@@ -159445,9 +159445,9 @@
             "points": 6,
             "altM": 734,
             "altFt": 2408,
-            "activationCount": 347,
-            "activationCall": "M9VAZ/P",
-            "activationDate": "2026-07-25T00:00:00Z",
+            "activationCount": 348,
+            "activationCall": "GW4HQB/P",
+            "activationDate": "2026-09-01T00:00:00Z",
             "gridRef1": "SN 969193",
             "gridRef2": "",
             "locator": "IO81gu",
@@ -159463,6 +159463,14 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1271982,
+              "userId": 11851,
+              "activationDate": "2026-09-01T00:00:00Z",
+              "ownCallsign": "GW4HQB/P",
+              "qsos": 8,
+              "Callsign": "G4HQB"
+            },
             {
               "id": 1221938,
               "userId": 107128,
@@ -197735,9 +197743,9 @@
             "points": 1,
             "altM": 284,
             "altFt": 932,
-            "activationCount": 85,
+            "activationCount": 86,
             "activationCall": "MW9KRS",
-            "activationDate": "2026-07-28T00:00:00Z",
+            "activationDate": "2026-09-01T00:00:00Z",
             "gridRef1": "SN 515080",
             "gridRef2": "",
             "locator": "IO71ws",
@@ -197764,6 +197772,14 @@
             "tagCount": 1
           },
           "activations": [
+            {
+              "id": 1272029,
+              "userId": 104836,
+              "activationDate": "2026-09-01T00:00:00Z",
+              "ownCallsign": "MW9KRS",
+              "qsos": 18,
+              "Callsign": "MW9KRS"
+            },
             {
               "id": 1222794,
               "userId": 104836,
