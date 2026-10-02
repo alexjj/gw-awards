@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T06:45:34Z",
+  "generated_at": "2026-10-02T06:34:56Z",
   "association": "GW",
   "regions": {
     "MW": {
@@ -53802,9 +53802,9 @@
             "points": 8,
             "altM": 854,
             "altFt": 2802,
-            "activationCount": 204,
-            "activationCall": "G1JKS/P",
-            "activationDate": "2026-09-26T00:00:00Z",
+            "activationCount": 205,
+            "activationCall": "M9MWZ",
+            "activationDate": "2026-10-01T00:00:00Z",
             "gridRef1": "SH 827369",
             "gridRef2": "",
             "locator": "IO82dw",
@@ -53820,6 +53820,14 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1304693,
+              "userId": 91630,
+              "activationDate": "2026-10-01T00:00:00Z",
+              "ownCallsign": "M9MWZ",
+              "qsos": 10,
+              "Callsign": "MW9MWZ"
+            },
             {
               "id": 1302629,
               "userId": 50679,
