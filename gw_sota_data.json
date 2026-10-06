@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T06:29:17Z",
+  "generated_at": "2026-10-06T07:06:05Z",
   "association": "GW",
   "regions": {
     "MW": {
@@ -38562,9 +38562,9 @@
             "points": 10,
             "altM": 1064,
             "altFt": 3491,
-            "activationCount": 211,
-            "activationCall": "MW1TJM/P",
-            "activationDate": "2026-09-06T00:00:00Z",
+            "activationCount": 213,
+            "activationCall": "GW1OXH/P",
+            "activationDate": "2026-10-04T00:00:00Z",
             "gridRef1": "SH 683643",
             "gridRef2": "",
             "locator": "IO83ad",
@@ -38580,6 +38580,22 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1310382,
+              "userId": 94713,
+              "activationDate": "2026-10-04T00:00:00Z",
+              "ownCallsign": "GW1OXH/P",
+              "qsos": 8,
+              "Callsign": "g1oxh"
+            },
+            {
+              "id": 1310377,
+              "userId": 94713,
+              "activationDate": "2026-10-03T00:00:00Z",
+              "ownCallsign": "GW1OXH/P",
+              "qsos": 19,
+              "Callsign": "g1oxh"
+            },
             {
               "id": 1278936,
               "userId": 103031,
@@ -153017,9 +153033,9 @@
             "points": 8,
             "altM": 811,
             "altFt": 2661,
-            "activationCount": 305,
-            "activationCall": "MW9KRS/P",
-            "activationDate": "2026-08-30T00:00:00Z",
+            "activationCount": 306,
+            "activationCall": "GW4WDZ",
+            "activationDate": "2026-10-05T00:00:00Z",
             "gridRef1": "SO 215299",
             "gridRef2": "",
             "locator": "IO81kx",
@@ -153035,6 +153051,14 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1310351,
+              "userId": 101803,
+              "activationDate": "2026-10-05T00:00:00Z",
+              "ownCallsign": "GW4WDZ",
+              "qsos": 8,
+              "Callsign": "G4WDZ"
+            },
             {
               "id": 1266376,
               "userId": 104836,
