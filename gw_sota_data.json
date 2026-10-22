@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T05:39:13Z",
+  "generated_at": "2026-10-22T05:40:21Z",
   "association": "GW",
   "regions": {
     "MW": {
@@ -22533,7 +22533,7 @@
             "points": 1,
             "altM": 415,
             "altFt": 1362,
-            "activationCount": 165,
+            "activationCount": 166,
             "activationCall": "MW0KEC/P",
             "activationDate": "2026-09-30T00:00:00Z",
             "gridRef1": "SO 155444",
@@ -22558,6 +22558,14 @@
               "ownCallsign": "MW0KEC/P",
               "qsos": 12,
               "Callsign": "MW0KEC"
+            },
+            {
+              "id": 1315206,
+              "userId": 107159,
+              "activationDate": "2026-09-20T00:00:00Z",
+              "ownCallsign": "EI4KFB",
+              "qsos": 5,
+              "Callsign": "EI4KFB"
             },
             {
               "id": 1292567,
@@ -149147,7 +149155,7 @@
           },
           "activations": [
             {
-              "id": 1313262,
+              "id": 1315120,
               "userId": 100819,
               "activationDate": "2026-10-17T00:00:00Z",
               "ownCallsign": "MW9OUD/P",
