@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T07:32:59Z",
+  "generated_at": "2026-11-10T07:57:14Z",
   "association": "GW",
   "regions": {
     "MW": {
@@ -20229,7 +20229,7 @@
           },
           "activations": [
             {
-              "id": 1317970,
+              "id": 1319421,
               "userId": 1507,
               "activationDate": "2026-11-02T00:00:00Z",
               "ownCallsign": "MW0VFC/P",
@@ -27773,7 +27773,7 @@
           },
           "activations": [
             {
-              "id": 1317971,
+              "id": 1319422,
               "userId": 1507,
               "activationDate": "2026-11-02T00:00:00Z",
               "ownCallsign": "MW0VFC/P",
@@ -30962,7 +30962,7 @@
           },
           "activations": [
             {
-              "id": 1317972,
+              "id": 1319423,
               "userId": 1507,
               "activationDate": "2026-11-02T00:00:00Z",
               "ownCallsign": "MW0VFC/P",
@@ -31451,7 +31451,7 @@
           },
           "activations": [
             {
-              "id": 1317973,
+              "id": 1319424,
               "userId": 1507,
               "activationDate": "2026-11-02T00:00:00Z",
               "ownCallsign": "MW0VFC/P",
@@ -189917,7 +189917,7 @@
           },
           "activations": [
             {
-              "id": 1317974,
+              "id": 1319425,
               "userId": 1507,
               "activationDate": "2026-11-02T00:00:00Z",
               "ownCallsign": "MW0VFC/P",
