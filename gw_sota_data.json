@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:27:58Z",
+  "generated_at": "2026-11-26T09:05:46Z",
   "association": "GW",
   "regions": {
     "MW": {
@@ -150391,9 +150391,9 @@
             "points": 8,
             "altM": 886,
             "altFt": 2907,
-            "activationCount": 489,
-            "activationCall": "GW0AZB/P",
-            "activationDate": "2026-10-12T00:00:00Z",
+            "activationCount": 490,
+            "activationCall": "MW0PWV",
+            "activationDate": "2026-11-21T00:00:00Z",
             "gridRef1": "SO 012215",
             "gridRef2": "",
             "locator": "IO81gv",
@@ -150410,6 +150410,14 @@
             "trackCount": 4
           },
           "activations": [
+            {
+              "id": 1326506,
+              "userId": 57977,
+              "activationDate": "2026-11-21T00:00:00Z",
+              "ownCallsign": "MW0PWV",
+              "qsos": 5,
+              "Callsign": "M0PWV"
+            },
             {
               "id": 1312090,
               "userId": 8296,
